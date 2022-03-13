@@ -1,6 +1,6 @@
 # Microverse
 
-## Module - I: [Introduction to Microverse & Remote Collaboration](https://github.com/CodeBitChips/Microverse/blob/main/Module-I)
+## Module-I: [Introduction to Microverse & Remote Collaboration](https://github.com/CodeBitChips/Microverse/blob/main/Module-I)
 
 ### Week 1: [Intro and Collaboration](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01)
 
