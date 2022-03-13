@@ -1,34 +1,25 @@
 # Microverse
 
 ## Module - I
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/README.md)
 
-### WEEK 1 - INTRO AND COLLABORATION
-#### Day 1
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
-[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-I/Week01/task01.md)
+## Module - II
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-II/README.md)
 
-#### Day 2
+## Module - III
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-III/README.md)
 
-### WEEK 2 - HTML FORMS AND RESPONSIVENESS
+## Module - IV
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-IV/README.md)
 
+## Module - V
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-V/README.md)
 
-### WEEK 3 - ACCESSIBILITY AND CSS FRAMEWORKS
+## Module - VI
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-VI/README.md)
 
+## Module - VII
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-VII/README.md)
 
-### WEEK 4 - JAVASCRIPT AND DOM MANIPULATION
-
-
-### WEEK 5 - FIRST CAPSTONE PROJECT
-
+## Module - VIII
+[Welcome to your first day at Microverse!](https://github.com/CodeBitChips/Microverse/blob/main/Module-VIII/README.md)
