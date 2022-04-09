@@ -6,7 +6,6 @@
 - Accessibility and CSS frameworks
 - JavaScript and DOM manipulation
 
-
 ## Module - II: [JavaScript & Networking](https://github.com/CodeBitChips/Microverse/blob/main/Module-II)
 - Dynamic websites and organizing JavaScript code
 - ES6 and Webpack
