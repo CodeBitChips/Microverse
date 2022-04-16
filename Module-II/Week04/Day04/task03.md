@@ -1,27 +1,31 @@
-# Local storage
+# Time booked for implementing suggested project changes
 
-## Learning objectives
+Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
 
-- Use local storage to save user input.
+Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
 
-### Estimated time: 1h
+**Therefore, you can see time booked for the project changes in the Student Dashboard.**
 
-## Description
+### How should you use the time booked for making project changes?
 
-The web storage API, including local and session storage, allows you to save data persistently in the browser. That means that the data is saved even if the user reloads the page or closes the browser.
+We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
 
-### Why is local storage important?
+We recommend that you follow these steps:
+- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
+- After that you can begin to complete the other activities planned for that day.
+- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
+- If a third code review was necessary, you can complete the remainder of the time booked for the project changes at the end of the day.
+- Occasionally, changes might be requested in your third review. To implement them, you can use an extra code review. 
+- Always plan your work carefully and mind the deadlines: they apply even though you use extra code reviews! 
 
-As a web developer, you can store user data in the browser in order to improve the user experience. For example, you can save user settings related to your service so that the user does not have to set them every time. Also, you can store the data while the user is filling a form so they can continue the process from where they left even if they close the browser.
+### What should you do if you need more time for project changes than the amount booked for that?
 
-### Learn more
-- Read this tutorial on [how to use the web storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) by MDN.
-- In order to store and retrieve objects and arrays, check how the [*stringify*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) and [*parse*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) methods work.
+The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
+We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
 
-## Additional Materials
+### What should you do about time booked for the project changes in the Student Dashboard?
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Watch this [HTML5 web storage video tutorial](https://www.youtube.com/watch?v=C3tiI3akFq8).
+There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
 
 ------
 

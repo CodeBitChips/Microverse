@@ -1,29 +1,37 @@
-# Time booked for implementing suggested project changes
+# Async
 
-Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
+## Learning objectives
 
-Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
+- Use callbacks and promises.
+- Describe the difference between async and sync calls.
 
-**Therefore, you can see time booked for the project changes in the Student Dashboard.**
+### Estimated time: 2.5h
 
-### How should you use the time booked for making project changes?
+## Description
 
-We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
+In this lesson, you will learn what sync and async calls are in JavaScript, as well as when and how to use them.
 
-We recommend that you follow these steps:
-- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
-- After that you can begin to complete the other activities planned for that day.
-- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
-- Finally, you can complete the remainder of the time booked for the project changes at the end of the day if a third code review was necessary.
+### Sync vs async
 
-### What should you do if you need more time for project changes than the amount booked for that?
+**Synchronous** (sync) code is executed instruction by instruction, one by one, blocking the execution of the program until each step is completed before moving to the next one. Most operations in JavaScript are synchronous.
 
-The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
-We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
+But sometimes, for several reasons, you don't want to wait until an instruction has finished before moving to the next operation - for example, because you are performing a request over the internet (like sending or receiving data from/to a server) and you don't know how much time this operation may take. In this case, you want to continue with the next operation and be notified in the future when the previous one has finished. **Asynchronous** (async) calls allow you to start an operation and do other things while you are *waiting* for the previous one to finish.
 
-### What should you do about time booked for the project changes in the Student Dashboard?
+JavaScript has several ways to perform async operations:
 
-There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
+- [Callback functions](https://www.w3schools.com/js/js_callback.asp).
+- [Promises](https://www.w3schools.com/js/js_promise.asp).
+- [Async functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function).
+
+Callback functions are the traditional way of dealing with async code, while promises and async functions are newer additions to the language. You should be familiar with all of them since you will find them in different projects.
+
+## Additional materials
+**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
+
+To get a deeper understanding of how JavaScript async code works, read these articles:
+
+- [JavaScript promise tutorial: resolve, reject, and chaining in JS and ES6](https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/).
+- Be careful to avoid [callback hell](https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/) and [promise hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513).
 
 ------
 

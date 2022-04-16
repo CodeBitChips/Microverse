@@ -1,79 +1,30 @@
-# Portfolio: validate contact form
+# JSON
 
 ## Learning objectives
 
-- Process user input according to business rules.
-- Use client-side validation to catch and throw errors in the UI.
+- Understand and use JSON.
+- Make JavaScript code asynchronous.
 
-### Estimated time: 2.5h
+### Estimated time: 1h
 
 ## Description
 
-For this milestone of your portfolio website, you will implement a client-side validation of the data in the contact form before submission.
+In this lesson you will learn what JSON is and how to use the JSON format to exchange data over the internet.
 
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+### Why is JSON important?
 
-### General requirements
+JSON (JavaScript Object Notation) is a standardized format used to send and receive structured data. JSON is not the only format to exchange data, but is the most used, particularly in APIs.
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
+### Working with JSON
 
-### HTML/CSS & JavaScript requirements
+JSON is not JavaScript. While it seems like a JavaScript object, it is plain text that merely uses JavaScript Object notation (syntax). Because of that, you have to convert JSON from plain text to JavaScript using the `JSON.parse()` method, and from objects to text using the `JSON.stringify()` method. To learn more about JSON, read the following guide from MDN:
 
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
+- [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-### Project requirements
+## Additional materials
+**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
-
-_**IMPORTANT NOTE:** For each Microverse project, you need to create a separate pull request. [Read how to work with multiple pull requests in your one repository in the most efficient way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md)._
-
-- You need to implement a simple validation:
-  - The content of the email field has to be in lower case.
-- You should implement the following interactions:
-  - When the user submits the form, you check if the email is in lower case.
-  - If the validation is OK, the form is sent.
-  - If the validation is not OK, you show an error message to the user near the submit button informing them of the error and the form is not sent.
-  
-  <p align="center">
-    <img src="./images/m3_contact_form/contact_form.png" alt="Mobile popup" />
-  </p>
-
-We included a screenshot of Template 1 for reference, but you should follow the template that you chose.
-
-- When you create the error message, you should stick to the design guidelines (e.g., font, colors, margins) of [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-
-### Need a big picture?
-
-Remind me about [the big picture of this project](./sneak_peek.md).
-
-
-## Work and submission mode
-
-- You should implement the above requirements in **all repositories** in your pair-programming group. _That means that each group member needs to open a new pull request in their repo._
-- We will check the commit history to make sure that everybody has contributed code on each project.
-- You should ask for a review and submit this activity **individually.**
-
-## Code review
-
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
-Each of you needs to request a code review individually.
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
-
-## Additional requirements
-
-*These are all optional, but if you're interested in exploring this topic further, feel free to implement them. Any exploration here should be done outside program time.*
-
-*If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
-
-- When the form validation is not OK, you can provide the user with their text converted to lower case so they can use it directly in the input field.
+You can practice [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp) and [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp) in W3Schools.
 
 ------
 

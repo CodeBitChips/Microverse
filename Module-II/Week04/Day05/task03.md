@@ -1,51 +1,59 @@
-# Debugging and developer tools
+# Techniques for effective time management
 
 ## Learning objectives
 
-- Use developer tools to print information to the console.
-- Identify how developer tools are used in debugging front-end code.
-- Understand the importance of thoughtful, intentional problem-solving.
+- Learn techniques for time management and identify the one that works best for you.
 
-### Estimated time: 0.5h
+### Estimated time: 1h
 
-## Description
+## Introduction
 
-*Debugging* is the process of finding and fixing code errors (also known as *bugs*). *Quality Assurance* (or QA) is a complex discipline that monitors the whole software development process. Debugging is just a small part of QA.
+The purpose of this lesson is to help you build your skills around effective time management by introducing new tools or techniques you can try for yourself.
 
-### Why is debugging important?
+### Why are techniques for effective time management important?
 
-"*No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.*" (Andrew Hunt, The Pragmatic Programmer). We should add that no one has written a piece of perfect software *alone* - writing software is a collective and continuous effort.  OK, you can't write perfect code but you can find your errors early, and fix them before they arrive at the final user. And a good way to *debug* your code is by working collaboratively.
+One of the most valuable skills you can have as an online student—and in the future as a remote worker—is effective time management. The better you manage your time, the easier it is to achieve your goals. Everyone has the same 24 hours in a day, meaning it’s not about how much time you have, but *how well* you can manage it.
 
-### JavaScript debugging
+Time management techniques are especially important for online students, who are often taking care of family, or juggling other commitments. Without the help of a class to motivate you or having a set time where you need to be in a physical classroom, effective time management is crucial to helping you stay focused.
 
-- Read this introduction to [JavaScript debugging](https://www.w3schools.com/js/js_debugging.asp) to learn the JavaScript debugging basics.
-- Read the article [Debugging Javascript like a pro](https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e) to learn additional JavaScript debugging techniques. This article is focused on Chrome, but the same techniques can be applied to any browser's developer tools.
+The learnings from this lesson can also be applied to remote work and your professional life in general.
 
-A useful yet rudimentary way to debug a web application is by using **console.log()**. It is available in all browsers and you don't need to install anything.
+### Effective time management techniques
 
-- Look at these [console.log() exercises](https://www.w3schools.com/jsref/met_console_log.asp) from W3Schools, and complete all of their *Try it Yourself* exercises.
+Effective time management not only helps with your learning but can also make you more productive at work and in your personal life. If you’re serious about successfully completing your online program, it’s crucial to find a good system to use.
 
-### Browser's developer tools
+**Guiding questions:**
 
-A more robust way to test your applications is with your browser's *developer tools*. Browser tools are included in all modern browsers, with small differences between browsers. With developer tools you can not only print to the console but also stop the execution of the program, change values live, resume your application, etc. Learn more about the most popular browser developer tools available (Hint: for now just look at the browser developer tools for your favorite browser and get familiar with them - do not look at the browser tools for the other browsers.):
+- What existing knowledge of time management techniques do you have?
+- Which techniques might work best for you?
 
-- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools).
-- [Chrome DevTools](https://developer.chrome.com/docs/devtools/).
-- [Edge DevTools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/).
-- [Safari Web Development Tools](https://developer.apple.com/safari/tools/).
-- [Opera DevTools](https://dev.opera.com/extensions/testing/).
+Learn more about effective time management techniques in the following articles:
 
-Hint: Developer tools are a very broad topic, and mastering them may require some time. You could start with the most useful and common features like:
+[Effective time management techniques](effective-time-management-techniques.md)
 
-- The console panel.
-- The elements (or inspector) panel.
-- The sources (or debugger) panel.
+## Exercise
+
+### Instructions
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+In this activity, you will work on some time management techniques as discussed in the lesson. You will also get to choose and practice a strategy that you find more helpful for workflow and study.
+
+**Exercise template to copy:** [Time management techniques assessment](https://docs.google.com/document/d/1dBcpyiHQtERATTSjejpxPD03MRXp-pL3N_7d7JBjNdk/edit?usp=sharing)
+
+### Submit your exercise
+
+[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
-The most common method of the accessing the browser's debugging console is **console.log()**, but it's not the only one. Take a look at the full [**console object**](https://developer.mozilla.org/en-US/docs/Web/API/Console).
+- [How to Take the Best Breaks During Your Workday, and Why You Should Never Skip Them](https://www.inc.com/marissa-levin/why-your-lunch-break-may-be-most-important-appointment-of-your-day.html)
+- [Time blocking 101: A step-by-step guide to getting the most from your daily schedule](https://blog.rescuetime.com/time-blocking-101/)
+- [Video - 4 Things You Shouldn't Do When You Miss a Deadline](https://www.youtube.com/watch?v=84Sm194QOPk)
+- [Do more and have fun with time management using the pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique)
+- [4 Quadrants of Time Management Matrix](https://www.ntaskmanager.com/blog/quadrants-of-time-management-matrix/)
 
 ------
 

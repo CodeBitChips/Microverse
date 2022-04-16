@@ -1,69 +1,59 @@
-# Daily standup
+# Use Google Calendar to Manage Your Time
 
 ## Learning objectives
 
-- Describe the value of the daily standup team.
-- Show you know how to use a daily update and weekly retrospective forms to drive successful meeting activities.
-- Create a good SMART goal for a daily goal.
+- Know how to use Google Calendar to stay organized and use time effectively.
 
-### **Estimated time**: 0.25h
+### **Estimated time**: 1h
 
-## What is a daily standup?
+## Introduction
 
-This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day from Monday through Thursday.
+The purpose of this lesson is to help you learn how to use Google Calendar to stay organized, efficient and productive. The use of your calendar application to organize your time is known as calendar management, and when it's done well to enhance your productivity, it is regarded as effective.
 
-### Why are daily standup important?
+### Why is effective calendar management important?
 
-Daily standups are a common tool in software developer teams and technology companies. They serve a lot of purposes: they help with productivity, bring clarity to your goals, help you communicate with your team, and help you overcome your blockers. We use them internally as a company at Microverse too. We want you to do daily standups every day from Monday to Thursday at Microverse, to help you become more productive here—and to help you be ready for using them in your software development job after Microverse!
+Constantly adding meetings and time blocks to your calendar can feel like a waste of time--after all, most of us tend to rely on our own memories. But we’re all humans, and humans forget things sometimes. We miss deadlines, we forget about important tasks, we mix up time zones, and accidentally show up at meetings an hour early (or worse: an hour late).
+
+Managing a Google Calendar can take 10 minutes out of your day, yes--time that you may want to spend coding or relaxing or just grabbing a cup of coffee. It can be boring and repetitive but like many boring, repetitive tasks, it is **absolutely necessary.** Those 10 minutes of organization can be the difference between you missing an interview or not, or between meeting a work deadline and forgetting it. Get in the habit right now of using your Google Calendar, and **continue using it**.
+
+### Effective calendar management practices
+
+**Guiding questions:**
+
+- Do you have a schedule for your working hours and are they represented in your calendar?
+- Do you plan your week and workflow using effective calendar management practices?
+
+**Learn more about effective calendar management practices and using Google Calendar**
+
+[How to use Google Calendar to get (and stay) organized and efficient!](how-to-use-google-calendar-to-get-and-stay-organized-and-efficient.md)
 
 ## Exercise
 
 ### Instructions
 
-Before you start filling in your first daily standup, there are few key areas you have to think about and critically assess. To do so, remember that your daily standup should serve 2 purposes: 
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-- help you move forward in the week with your tasks
-- update teammates on what you are doing
+1. Record a Loom video of yourself completing the following calendar management tasks. Share your video link under the table in the exercise.
 
-A daily standup is not just a list of actions. Instead, it's a moment of reflection on how your work is going. Use the following questions as a guide:
-
-1. **What went well today?**
-
-    Did you achieve a goal faster than expected? Great! Write it down. Did you get positive feedback from someone? Go ahead and note it! It's important to keep track of things that go well to celebrate small wins and to give ourselves an overview of what our strengths are so we can do more of that in the future. Celebrating what went well is also known to raise motivation!
-
-2. **What blocked you from achieving your goals?**
-
-    Experiencing blockers or challenges is expected. We cannot expect to operate at 100% productivity and reach all of our goals every week.
-
-    Many different things may keep you from reaching your goal. It's important, to be honest with yourself. Identifying the right issue will help you adjust your goals to improve your performance the following week. Are you not reaching your goals due to productivity issues you can control like lack of motivation or time management? Or are you having difficulties with your partners due to conflict or having different working styles?
-
-    By self-assessing and identifying the blockers, you can actively do something to overcome them, either by reaching out to your standup team, Student Success, or trying out a specific strategy related to your blocker.
-
-3. **What are your three goals for tomorrow?**
-
-    Set three goals using the SMART method. A smart goal should be **specific**, **measurable**, **achievable**, **relevant**, ****and **timely**. ****
-
-    You can refresh your knowledge of SMART goals in the following article:
-
-    - [How do I set great goals?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/how-do-i-set-great-goals.md)
-    
-4. **What will you do tomorrow to ensure you reach your goals?**
-
-    If something does not work, change it. We often make the mistake of setting the same goals, hoping next week we will finally reach them. But that does not work. Taking the time to reflect on your blockers and turning those into action plans is the way to long-term success. Perhaps you are setting your goals too high or too low? Are you applying the SMART method correctly? Are you diagnosing the right blocker? Do you keep using the same strategy, but it isn't working? What will you change in your behavior that will result in reaching your goals next week? If you aren't sure what to do, it's a great idea to bring it up with your team and get their help thinking what you could change. 
+**Exercise template to copy:** [Calendar management assessment](https://docs.google.com/document/d/1R7LRvYUkGAQjhLB_7W2_pDL_J-M1eJAlghH4mASsLJc/edit?usp=sharing)
 
 ### Submit your exercise
 
-Now go to your Student Dashboard and fill in your daily standup.
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
-### Additional materials
+Now go to your Student Dashboard and submit your exercise.
+
+## Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Daily standups: What to expect](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/daily-standups:-what-to-expect.md)
-- [The value and potential of daily standups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/value-and-potential-of-daily-standups.md)
-- [How to set SMART goals | Goal setting for students](https://www.youtube.com/watch?v=i0QfCZjASX8)
-- [The small-win principle for maximum performance | Robin Sharma](https://www.youtube.com/watch?v=OtfW8RDmOUo)
-
+- [Add a secondary time zone with Google Calendar - tutorial](https://youtu.be/2q72abY_5D0)
+- [Add a world clock to check multiple time zones - tutorial](https://youtu.be/ico2Pnbk0bw)
+- [Transform scheduling emails into calendar events - tutorial](https://youtu.be/pn6460GnooI)
+- [Get emails with your daily agendas - tutorial](https://youtu.be/hovfE2I60hM)
+- [Share your calendar - tutorial](https://youtu.be/q6rG0CyLeFc)
+- [Set up notifications - tutorial](https://youtu.be/asxtTNlMNqE)
+- [Automatically add Zoom links to your Google Calendar - tutorial](https://youtu.be/Qhculbcktuw)
 
 ------
 

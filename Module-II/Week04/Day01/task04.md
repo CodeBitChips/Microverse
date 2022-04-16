@@ -1,88 +1,36 @@
-# Portfolio - mobile menu
+# Gitflow
 
 ## Learning objectives
+- Follow Gitflow.
 
-- Use basic JavaScript syntax.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-
-### Estimated time: 3h
+### Estimated time: 1h
 
 ## Description
 
-For this milestone of your portfolio website, you will implement the mobile menu using your recently acquired JavaScript knowledge.
-
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.* 
-
-*SECOND IMPORTANT NOTE: Remember to reach out to Student Success if you are experiencing difficulties with your partner. Difficulties might range from not hearing from your partner, your partner not having a proper working environment or your partner not following up with agreements on finishing projects. Student Success is here to support you and we can better help you when you reach out early in the week.*
-
-### General requirements
-
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
-
-### HTML/CSS & JavaScript requirements
-
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
-
-### Project requirements
+So far, you have been using GitHub flow. Now, it is time to introduce Gitflow.
+The primary purpose of Gitflow is the same as in the case of the GitHub flow. It is a description of a detailed process for using branches with your team.
+However, there one important difference - in Gitflow, you keep two special branches: one for development code shared with your team and one that is used only for production code.
 
 
-_**IMPORTANT NOTE:** For each Microverse project, you need to create a separate pull request. [Read how to work with multiple pull requests in your one repository in the most efficient way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md)._
+### Why is it important?
 
-- For this project, you should add the [JavaScript + HTML + CSS linter](https://github.com/microverseinc/linters-config/tree/master/html-css-js).
-- In mobile, implement the following features:
-  - When the user clicks (or taps) the hamburger button, the mobile menu appears.
-  - When the user clicks (or taps) the close (X) button, the mobile menu disappears.
-  - When the user clicks (or taps) any of the mobile menu options, the mobile menu disappears.
-  - When the user clicks (or taps) any of the mobile menu options, a correct part of the page is displayed.
-  
-  <p align="center">
-    <img src="./images/m7_mobile_menu/menu-mobile.png" alt="Mobile menu" />
-  </p>
-  
-We included a screenshot of Template 5 for reference, but you should follow the template that you chose.
-
-- You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
+As in the case of GitHub flow - if everybody in your team uses the same flow, you collaborate more effectively because everyone knows how to track the history of changes in your shared code easily.
+Gitflow is also how many development teams in the world work, so this will definitely benefit your chances of landing your first job. 
 
 
-### Need a big picture?
+### How to use Gitflow
 
-Remind me about [the big picture of this project](./sneak_peek.md).
+In order to learn how to use Gitflow with your team:
+- Read [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) by Atlassian.
+- Learn about the difference between [Git Flow vs Github Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
+- Read [How to use GitFlow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md), which will guide you through the entire concept.
 
-## Work and submission mode
 
-- You should implement the above requirements in **all repositories** in your pair-programming group. _That means that each group member needs to open a new pull request in their repo._
-- We will check the commit history to make sure that everybody has contributed code on each project.
-- You should ask for a review and submit this activity **individually.**
+## Additional materials
 
-## Code review
+**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
-Each of you needs to request a code review individually.
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
-
-## Additional requirements
-
-*These are all optional, but if you're interested in exploring this topic further, feel free to implement them. Any exploration here should be done outside program time.*
-
-*If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
-
-- In desktop, when the user scrolls you need to check if the user scrolled to a new section. If so, you should highlight the name of the section in the menu by manipulating the DOM using CSS classes.
-
-  <p align="center">
-    <img src="./images/m7_mobile_menu/menu-desktop.png" alt="Desktop menu" />
-  </p>
-  
-We included a screenshot of Template 5 for reference, but you should follow the template that you chose.
+Here is [a video](https://www.youtube.com/watch?v=KScwEeYwJJk) which explains what main and develop branches are in detail.
 
 ------
 

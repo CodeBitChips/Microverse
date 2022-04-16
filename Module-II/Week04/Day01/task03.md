@@ -1,38 +1,64 @@
-# The DOM and events
+# Catch hidden bugs!
 
 ## Learning objectives
 
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Show a basic understanding of how the DOM works.
+- Locate a bug using manual QA methods.
+- Clone an existing repository.
+- Use the git bisect command for debugging.
+- Understand the importance of thoughtful, intentional problem-solving.
 
-### Estimated time: 1.5h
+### Estimated time: 1h
 
-## Description
+## Exercise
 
-As you may know, we can use JavaScript to make changes in a webpage. When JavaScript is used as a client-side programming language it is executed in the user's browser. The interface (API) to access the HTML elements from JavaScript is called the DOM (Document Object Model). Using the DOM you can access the HTML elements of your website and manipulate them.
+In this exercise, you will find and fix a couple of bugs.
 
-Also, the DOM allows you to be aware of how the user is interacting with your website, and allows you to execute some actions when the user "triggers an event." For example, when the user clicks a button you can execute JavaScript code to show a success message.
+*IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
 
-### Why is the DOM important?
+### Instructions
 
-As a web developer, it is important for you to be able to create interactive websites that are not just plain content. You should be able to use JavaScript to make changes in the page based on user interactions with the content.
+- Clone [curriculum-tools-buggy-restaurant](https://github.com/microverseinc/curriculum-tools-buggy-restaurant).
+- Run the project on your local machine according to the instructions in its README file. Make sure that you can open the website in your browser.
 
-### Learn more
+#### Bug #1
+- The bug is described as:
+    - Current behavior: as a user, when I click the "Contact" link in the navigation, nothing happens.
+    - Expected behavior: as a user, when I click the "Contact" link in the navigation, I am taken to to a page with restaurant contact information.
+- Reproduce the bug in your local version of the project.
+- Use the ` git bisect` command to find out in which commit a bug was introduced.
+- Fix the bug! ❌🐛
+- _There is no need to commit your changes now._
+- Verify that website behaves in an expected way after your fix.
 
-Read the following tutorials to learn the basics of the DOM manipulation (1h):
-- [Introduction to the DOM](https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/).
-- [Locate DOM elements and check properties](https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/).
-- [Create new DOM elements](https://www.javascripttutorial.net/javascript-dom/javascript-createelement/).
-- [Change the DOM elements style manipulating their CSS classes](https://www.javascripttutorial.net/javascript-dom/javascript-classlist/).
+#### Bug #2
+- The bug is described as:
+    - Current behavior: as a user, when I open the menu page, I can see menu items overlapping.
+    - Expected behavior: as a user, when I open the menu page, I can see menu items ordered into two columns and two rows.
+- Reproduce the bug in your local version of the project.
+- Use the ` git bisect` command to find out in which commit a bug was introduced.
+- Fix the bug! ❌🐛
+- _There is no need to commit your changes now._
+- Verify that website behaves in an expected way after your fix.
 
-Finally, read this tutorial about how to make changes on the page based on user interactions (0.5h):
-- [Introduction to DOM events](https://www.javascripttutorial.net/javascript-dom/javascript-events/).
+#### 5-minute long video
+Once you know the solution for two bugs, prepare a short video about them.
 
-## Additional materials
+- First, undo your changes.
+- Record a [loom video](https://www.loom.com/) that will show (for one of the bugs you found):
+    - How you reproduce the bug in your local environment.
+    - How you locate the commit that introduced the bug by using `git bisect`.
+    - How you fix the bug.
+    - How you verify that bug is gone.
+- Your video should not be longer than 5 minutes.
+- The link to the loom video should be submitted as the outcome of this exercise.
+- _Please do not share your video or code with other students! Let them have fun with bugs!_
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Complete the rest of the [JavaScript DOM tutorials](https://www.javascripttutorial.net/javascript-dom/) from JavaScript Tutorial. 
+### Submit your exercise
+
+[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+
+Now go to your Student Dashboard and submit your exercise.
+Paste a link to the loom video you have recorded.
 
 ------
 

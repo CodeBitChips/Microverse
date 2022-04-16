@@ -1,51 +1,30 @@
-# Basic JavaScript syntax recap
+# Debugging with git bisect
 
 ## Learning objectives
 
-- Use basic JavaScript syntax.
+- Use the git bisect command for debugging.
+- Understand the importance of thoughtful, intentional problem-solving.
 
-### Estimated time: 1h
+### Estimated time: 0.5h
 
 ## Description
 
-You already know JavaScript as you proved in the Admissions Trials. But it is worth a recap on the syntax of the language, mostly about how to manipulate data structures (arrays and objects). We will also look at JavaScript best practices.
+You are already familiar with the concept of debugging. You have learned about it in [the previous module](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/debugging/debugging_and_developer_tools.md) or during building your projects in Microverse 1.0.
+Most likely, you had to debug your code while building your web apps, and you know that sometimes it is really difficult to discover what is causing some unexpected behavior.
+In this lesson you will learn about a tool that can help you find out in which commit a bug was introduced.
 
-### Why is refreshing your JavaScript knowledge important?
+### Why is git bisect important?
 
-You will be using a lot of JavaScript in the next several lessons and projects, so it is important that you refresh your basic JavaScript knowledge in order to write JavaScript that follows the best practices.
+The `git bisect` command is a way to make your investigations faster. Especially in the case of big projects, finding when and why a bug was introduced can be a neverending story.
 
-### Why are JavaScript best practices important?
+### Learn more about git bisect
 
-If you follow best practices, working with your code will be easier - for you and for other developers.
+`git bisect` uses binary search (spoiler alert - you will learn about it in a few weeks!) to find the commit that introduced a bug.
+Right now, you do not need to understand the theory behind binary search fully.
+Please focus on understanding how to use `git bisect` - after learning `git bisect`, understanding binary search will be a piece of cake for you!
 
-### Learn more
-
-Learn about the [JavaScript best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md) that you will need to adhere to in all of your Microverse projects.
-
-Refresh your knowledge about JavaScript arrays with these interactive tutorials (spend 5 minutes on each of them):
-
-- [Use an array to store a collection of data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
-
-- [Access an array's contents using bracket notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
-
-- [Add items to an array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
-
-- [Check for the presence of an element with indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
-
-- [Iterate through all an array's items using for loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
-
-Refresh your knowledge about JavaScript objects with these interactive tutorials (spend 5 minutes on each of them):
-
-- [Add key-value pairs to JavaScript objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
-
-- [Modify an object nested within an object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
-
-- [Modify an array stored in an object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
-
-## Additional materials
-
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Complete the rest of [the challenges about basic data structures in JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/) from FreeCodeCamp. 
+- Read the article [Debug your code using git bisect](https://codeburst.io/debug-your-code-using-git-bisect-45db2983cc69) by Nayeem Reza.
+- Watch it in action in the [Git bisect tutorial - How to find a bad bug commit](https://www.youtube.com/watch?v=D7JJnLFOn4A&t=6s) by Ihatetomatoes.
 
 ------
 

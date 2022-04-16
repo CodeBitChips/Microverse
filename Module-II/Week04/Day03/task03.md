@@ -1,32 +1,40 @@
-# Client side validation
+# Working with APIs
 
 ## Learning objectives
 
-- Process user input according to business rules.
-- Use client-side validation to catch and throw errors in the UI.
+- Send and receive data from an API.
+- Use API documentation.
+- Identify if an API is RESTful or not.
 
-### Estimated time: 2h
+### Estimated time: 1.5h
 
 ## Description
 
-As you know, we use HTML forms to collect user input. In order to make sure that the data is provided in a standard format, we can execute data validations client-side on the browser (as opposed to server-side on the server, which you will learn about later in the program). There are different types of client-side validation: built-in input elements (that came with HTML 5), regular expressions, and using JavaScript.
+In this lesson, you will learn what an API is, identify different types of APIs, how to consume an API, and how to check its documentation.
 
-### Why is client-side validation important?
+### Why are APIs important?
 
-In web application, as in any other software applications, the data and its consistency are key. In order to ensure that we are storing consistent user data in our server we should use data validations in the browser.
+An **Application Programming Interface** (API) is an *intermediary* that allows two applications to talk to each other. When you need to send or receive data from/to a server, you need to know *how* to ask for that data and the format or *shape* in which that data is coming to you. APIs are fundamental to keep the internet running since almost every application needs data from one or several sources. If every API was implemented in a different way, it would be really hard to learn how to work with each one. That's why APIs follow conventions, a set of guidelines to make APIs compatible and predictable. One of the most widely used conventions is the REST (Representational State Transfer) architectural style.
 
-### Learn more
-- Read the [client-side form validation tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) by MDN.
-- Read this tutorial to learn [how to validate forms using JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-form/) by JavaScript Tutorial.
+### REST and other kinds of APIs
 
-## Additional Materials
+Technically, you can create an API in any way, but if you don't follow any conventions people won't know how to use it. To have a common language for APIs, several styles or conventions are followed. Nowadays, the most popular is REST. REST is not a protocol or technology, is just a set of guidelines and best practices that you should follow. The main concept behind REST is *resources*.
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Complete  [these short exercises](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_validation) by MDN to assess your form validation skills.
-- Read this tutorial about [manipulating checkboxes with JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-checkbox/) by JavaScript Tutorial.
-- Read this tutorial about [manipulating radio buttons with JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-radio-button/) by JavaScript Tutorial.
-- Read these tutorials about [manipulating selects](https://www.javascripttutorial.net/javascript-dom/javascript-select-box/) and [add/remove options with JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-add-remove-options/) by JavaScript Tutorial.
-- Read this tutorial on how to [create a signup form and validate it from scratch](https://www.javascripttutorial.net/javascript-dom/javascript-form-validation/) by JavaScript Tutorial.
+To learn more about APIs and REST, read these articles:
+
+- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/), a general introduction to APIs.
+- [What is REST?](https://restfulapi.net/), an introduction to REST APIs.
+- [API 101: What Is a REST API?](https://blog.postman.com/rest-api-definition/) to understand the concept of resources.
+
+### How to consume an API
+
+There are several ways to *consume* an API, read [this aticle](../articles/how_to_consume_api.md) to learn some of them.
+
+## Additional materials
+
+**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
+
+If you want to learn more about the different types of APIs and their main differences, read the article [The Ultimate Guide to API Architecture: REST, SOAP or GraphQL?](https://da-14.com/blog/ultimate-guide-api-architecture-rest-soap-or-graphql).
 
 ------
 

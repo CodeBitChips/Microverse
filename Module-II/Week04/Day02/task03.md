@@ -1,29 +1,34 @@
-# Introduction to JavaScript objects
+# Sneak peek: Leaderboard
 
 ## Learning objectives
 
-- Use objects to store and access data.
+- Understand how to use medium-fidelity wireframes to create a UI.
 
-### Estimated time:0.5h
+### Estimated time: 0.5h
 
 ## Description
 
-Objects are data structures in JavaScript that are used to store data in a key-value structure.
+The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external [Leaderboard API service](https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).
 
-### Why are JavaScript objects important?
+### How to build the leaderboard website
 
-When you create a JavaScript program it will become handy to use objects to store and access data.
+For this application the priority is to create a working version of the leaderboard that preserves user input. You will build a website according to the wireframe:
 
-### Learn more
-- Read this tutorial by JavaScript Tutorial in order to learn [about JavaScript objects](https://www.javascripttutorial.net/javascript-objects/).
-- Practice objects with these interactive lessons by freeCodeCamp:
-  - [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation).
-  - [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement).
+<p align="center">
+  <img src="./images/leaderboard_wireframe.png" alt="Wireframe" />
+</p>
 
-## Additional materials
+Then, you will connect to the Leaderboard API (as described in its [documentation]((https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3))) in order to implement the actions behind the "Refresh" and "Submit" buttons. In the last step, you will play with async & await and add as much styling as possible in the given time.
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Tutorial about [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) by MDN.
+**IMPORTANT NOTE** This is the first time you will use [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md). Keep that in mind!
+
+### Projects list
+
+You will be building the leaderboard website during the whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the milestone requirements in the upcoming program activities.
+
+- Project 1: basic page structure.
+- Project 2: send and receive data from API.
+- Project 3: final touches.
 
 ------
 
