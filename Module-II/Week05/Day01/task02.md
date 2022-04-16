@@ -1,155 +1,88 @@
-# HTML/CSS & JavaScript capstone project - Conference page
+# Build better working relationships
 
 ## Learning objectives
 
-- Use semantic HTML tags.
-- Apply best practices in HTML code.
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Use Flexbox to place elements in the page.
-- Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
-- Use GitHub Pages to deploy web pages.
-- Apply JavaScript best practices and language style guides in code.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Use objects to store and access data.
-- Communicate technical concepts to other technical people.
+- Demonstrate knowledge of how to use different "icebreaker" questions for building relationships with teammates.
+- Understand that respect is the foundation of strong relationship-building with teammates.
 
-### Estimated time: 19.5h
+### **Estimated time**: 1hr
 
 ## Description
 
-In this capstone project (([remember what they are?](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md))
-) you are going to build is based on an *online website for a conference*. We provide some design guidelines for you to create the website, but **you must personalize the content**, i.e., instead of a conference you can build a website for a concert or for a web development course. It's very important the you personalize your project so that you have something unique in your portfolio to share with potential employers during job searching.
+*Read through the following section on your own for 3 minutes while staying on the Zoom call with your group.* 
 
-<p align="center">
-  <img src="./images/conference_page.png" alt="Form" />
-</p>
+This lesson digs deeper into why relationship building is important and how it can help you in group work.
 
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+### Why is building working relationships important?
 
-### General requirements
+As you work on projects together you spend a lot of time together. Having good relationships with your peers can make the work more enjoyable. You don't have to be best friends or get along on a personal level, but it helps to know more personal things about each other and more importantly to have strong working agreements that you can fall back on when things don't go as well as planned. 
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
+### Group discussion
 
-### HTML/CSS & JavaScript requirements
+- Spend 10 minutes talking about relationships at Microverse for you so far:
+    - What's hard about collaborating with other Micronauts?
+    - How have you seen it helps to know your teammates personally?
+    - Does remembering to do personal relationship-building feel easy or hard to you?
 
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
+### How relationship building can support you in the workplace
 
-### Project requirements
+*Spend the next 5 minutes reading through this part individually.*
 
-- You should personalize the content of your page. Choose a topic that is different than the one in the original design.
-- You should follow these [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), including:
-  - Colors.
-  - Typography: font face, size and weight.
-  - Layout: composition and space between elements.
-- The pages should look almost identical to the original design. Small adjustments like text or image changes are acceptable.
-- You can use a CSS framework (for example Bootstrap) for styling, if you want to.
-- You should build only these 2 pages:
-  - The *home page*.
-  - The *about page*.
-- Each of these pages should have versions for 2 different screen sizes: 
-  - Mobile: up to 768px wide.
-  - Desktop: 768px or wider.
+Now, you'll be learning more about relationship building. 
 
-- Interactions
-  - Links
-    - The *home page* should have a link in the menu to the *about page*.
-    - The logo in the header links to the *home page*.
-  - Mobile menu
-    - When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.
-    - There are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.).
-    - The mobile menu should have a close (X) button that closes the menu.
-- Dynamic page
-  - The section "Featured speakers" should be created dynamically in JavaScript.
-  - You should use a JavaScript variable with the data about the speakers and use it when the page loads to create the HTML for this section dynamically.
+Guiding questions:
 
-Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+- Why should you invest in relationship building with colleagues?
+- What's the benefit of taking the time to talk about non-work-related topics?
+- How does talking with your teammates help you divide work and be more productive?
 
-The [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/) requires that you give appropriate credit to the author. Therefore, you must do it in the README of your project.
+Learn more about this topic: 
 
-### Project documentation
+- [How to develop effective work relationships](https://www.thebalancecareers.com/developing-effective-work-relationships-1919386)
 
-Once you have finished the development of the project, you should record a video presenting the features of the project you built. It is a video with a **maximum length of 5 minutes**. The content of the video should include:
+*Now that you have learned individually, spend the next 10 minutes watching the following videos together and commenting on what you learn about team building from Micronaut alums. Remember the guiding questions above.*
 
-- A description of the project.
-- A demo of the project features (different pages and different screen sizes).
-- You should also highlight some interesting piece of code or something you built that you are very proud of.
+Learn directly from students about the value of getting to know each other at Microverse, the value of making friends at work, and the value of making good work agreements:
 
-For recording the video you can use tools like [Loom](https://www.loom.com/) that let you share a private link to the recording, and configure a shot that shows your computer screen and your face at the same time in a small picture.
+- [Micronaut one](https://www.loom.com/share/8192553b45734a6797866cadbd8167ac)
+- [Micronaut two](https://www.loom.com/share/7fd74bfc47734a8286763bc629985e81)
+- [Micronaut three](https://www.loom.com/share/4f63055b14b7490c86075acdbee81e31)
 
-**Add the video link to your pull request description.**
+### Getting to know each other as a group
 
-## Challenge breakdown
+We often talk at Microverse about the importance of relationship-building with teammates. In a remote environment, relationship-building has to be more intentional, since you don't "run into" teammates in the break room or in the library on campus as you might in a physical office or school. Icebreaker questions help a lot with relationship-building.
 
-In order to tackle this challenge, you need a plan! We created high-level milestones for you. Your job is to make them more detailed.
+**Remind yourselves what icebreaker questions are, and how to use them in meetings:** 
 
-### Day 1
+- [Icebreaker questions to get to know each other](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/icebreaker-questions-to-get-to-know-each-other.md)
 
-**Milestone 0 - project setup (0.5h)**
+## Exercise
 
-- Set up the repository and tools.
+### Instructions
 
-**Milestone 1 - content (1h)**
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
-- Choose the topic for your website.
-- Choose images, text, icons, fonts.
+**Spend 20 minutes working on this exercise.**
 
-**Milestone 2 - mobile first (5h)**
+1. Open the template and follow the directions for the exercise.
 
-- Create the 2 pages for mobile.
-- Deploy the project.
+**Exercise template to copy:** [Get to know your group project teammates](https://docs.google.com/document/d/1WFrlXMbgDXvQPCiXYL__b-DNSff_ZTIDO9Bue05qOrU/edit#)
 
-### Day 2
+### Submit your exercise
 
-**Milestone 3 - desktop version (5h)**
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-- Adapt the 2 pages to desktop.
+Now go to your Student Dashboard and submit your exercise.
 
-**Milestone 4 - interactions (1.5h)**
+## Additional materials
 
-- Implement the user interactions: link, mobile menu.
-- Deploy the project.
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-### Day 3
+- [Morning session: Making strong teams part 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/morning-session-making-strong-teams-part-1.md)
+- [Establish good working relationships (Module 1)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/establish-good-working-relationships.md)
+- [The only list of icebreaker questions you'll ever need](https://museumhack.com/list-icebreakers-questions/)
+- [Why we need best friends at work by Gallup](https://www.gallup.com/workplace/236213/why-need-best-friends-work.aspx)
 
-**Milestone 5 - dynamic page (5h)**
-
-- Implement the section "Featured speakers" with dynamic HTML.
-- Deploy the project and check to make sure everything works as planned.
-
-**Milestone 6 - documentation (1.5h)**
-
-- Record a video describing your project.
-- Create a good README and pull request description.
-
-
-## Work and submission mode
-
-- You should submit this activity **individually.**
-
-## Code review
-
-You will get a code review when you build the complete project, not after each milestone. When you have it ready, follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project. **You should create one pull request with the complete code of your app.**
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project](https://microverse.zendesk.com/hc/en-us/articles/360061344234).
-
-Now go to your Student Dashboard and submit your project.
-
-## Additional requirements
-
-*These are all optional, but if you're interested in exploring this topic further, feel free to implement them. Any exploration here should be done outside program time.*
-
-*If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
-
-- You could implement some UX improvements: add the "More" button on the home page, include transitions and/or animations, etc.
-- You could implement additional pages, like the *tickets page* and the *schedule page*. Make sure that you have a decent mobile design for them.
 
 ------
 

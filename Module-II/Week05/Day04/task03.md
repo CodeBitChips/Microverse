@@ -1,63 +1,50 @@
-# What makes you unique? (Define your personal USP)
+## Learning objectives:
 
-## Learning objectives
+- Learn the value of regular project status updates for group projects and practice daily with teammates.
+- Use daily team updates to identify and overcome project blockers.
+- Support teammates and team progress through daily updates and discussion of blockers.
 
-- Identify at least three factors about your past that make you unique as a future job searcher / employee.
-
-### Estimated time: 2h
+### **Estimated time**: 0.25h
 
 ## Description
 
-In this exercise, you will learn what a Unique Selling Point (USP) is, why it is important, and how to create your own USP by doing exercises.
+This lesson will prepare you for your first asynchronous project update with your group and will help you understand what needs to be included in these daily updates. 
 
-### Why is defining your personal USP important?
+### Why are daily project updates important?
 
-Have you ever been asked any of the following questions in an interview?
+Daily project updates are important in the remote learning environment. They are also a common practice in both remote and non-remote tech teams. They allow each team member to be up-to-date on the work that each individual is working on. Project updates also ensure that blockers are solved before it's too late. For project updates to be effective, team members must take a few minutes to reflect and prepare for their project update so that they communicate everything that is needed to their team.
 
-- *"Why should I hire you?"*
-- "*What makes you different from other candidates?"*
+### What should the daily project update include?
 
-The answer to each of these questions is called your *Unique Selling Point* or *Unique Selling Proposition (USP)*. Your USP is very important in every step of your job search. You will need to use it when writing your cover letter, elevator pitch, resume, and even when you begin networking with hiring managers. This is because your USP shows your unique personality and experiences, as well as the skills you have acquired over time. Having experience on your resume is not the only way to attract the attention of a recruiter; your USP can also help you do this effectively.
+Below we will go through the different questions and what each answer should include.
 
-### What is a USP?
+### *Overall mood:* green, yellow, red
 
-Your USP is a set of skills, knowledge, experiences, and personality traits that make you different or unique and which you can offer to provide value to a company.
+This question refers to your general mood. It's important to tell your team how you're feeling about the work because it helps them to quickly know if you are really stuck and needing help. When you choose a color, you want to take into account your stress levels, time need, and ability to work on your tasks without getting blocked. 
 
-**Learn more about the definition of a USP:**
+- Green means things are going smoothly and you are on target.
+- Orange means that things aren't going so well. You feel more stressed than usual, you feel rushed, or you are running into a lot of difficulties.
+- Yellow might mean things can turn red soon, but can also be fixed soon.
+- Red means you are completely blocked, very stressed or you have too many tasks to do and someone needs to take action by either unblocking you or taking over tasks.
 
-- [What is a USP? - 8 tips to develop a personal USP](https://www.coburgbanks.co.uk/blog/candidate-tips/8-tips-to-developing-a-killer-usp/)
+### *What have you worked on since the last update?*
 
-### Creating your personal USP
+Here you should include all the tasks that you have finished or are currently in the process of completing since the last update. If this is the first update, then include everything you have worked on of that day.
 
-The first step to creating your USP (i.e. to identify your own uniqueness) is to write down your life story. Your life story makes you very unique because no one has lived the same things as you. Later in this exercise, you will begin by creating your USP, then writing it out, and finally presenting it to your partner. To prepare for this, we want you to understand well how to create your personal USP:
+### *What will you work on next?*
 
-**Learn more about how to create your personal USP:**
+What do you plan to work on until the next update? This should be a list of tasks you plan on working on until the next project update.
 
-- [How to create a USP that compels employers to hire you](https://www.jobinterviewtools.com/why-should-i-hire-you-how-to-create-a-usp-that-compels-employers-to-hire-you/)
+### *Are you worried about finishing your part of the work in time for the team deadline? Answer Yes, No, or Somewhat and explain why (if needed).*
 
-### Presenting your personal USP
+Here you should let your team know if you feel worried about not being able to finish your part as planned. You must communicate this as soon as possible. The rule of thumb is to communicate early or overcommunicate whenever you can.
 
-One of the best ways to learn to confidently answer questions about your USP in interviews is to practice out loud. This helps reduce pre-interview stress and allows your brain to become familiar with this new information. Thus, in the exercise below, you will be presenting the USP you just created to your partner and then switching roles.
+In some cases, you might communicate when you only feel somewhat worried. For example, if your task took more time than expected on a given day, you might communicate this to your team even though you will likely be able to catch up on the work the next day. In this case, you might write the following:
 
-**Learn more about how to present your personal USP:**
+*Somewhat*. *Today I spent much more time on milestone 3 than expected. I managed to finish it but this means I'm delayed with the next task. I plan to catch up tomorrow but I will let you know in the update tomorrow if I managed to succeed.*
 
-- [Video - watch career coach Crystal present her personal USP](https://www.loom.com/share/0c307cdc1b904c909b3d5a5330ffcb91)
+This will allow your teammates to prepare in case someone needs to step in and help on the following day. It is usually better to share too much information than not enough.
 
-## Exercise
+### *Do you need help or have questions for your teammates?*
 
-### Instructions
-
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
-
-1. Open your copy of the template above and complete Section 1 and 2 of the document alone.
-2. Do Section 3 with your partner(s).
-
-**Exercise template to copy:** [Defining my personal USP](https://docs.google.com/document/d/16RSSs7xx0Q7iazycSnkdbR2DcWlajUqrsuBWmjkGaqs/edit#heading=h.16uhrmjd6dv)
-
-### Submit your exercise
-
-[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+Let your teammates know if you have any questions or if you need help. It's always better to ask your questions immediately and not wait another day. Your teammates prefer that you reach out for help instead of not saying anything and not being able to move forward. Remember to not only ask questions but also help other teammates whenever you can. You're more likely to receive help when you help others too!

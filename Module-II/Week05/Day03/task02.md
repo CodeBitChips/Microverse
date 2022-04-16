@@ -1,29 +1,41 @@
-# HTML/CSS & JavaScript capstone project - Conference page
+# JavaScript capstone project - Your API-based webapp
 
 ## Learning objectives
 
-- Use semantic HTML tags.
-- Apply best practices in HTML code.
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Use Flexbox to place elements in the page.
-- Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
-- Use GitHub Pages to deploy web pages.
+- Use JavaScript to make websites dynamic and build basic single page apps.
+- Use ES6 syntax.
+- Use ES6 modules.
+- Use callbacks and promises.
+- Use webpack.
 - Apply JavaScript best practices and language style guides in code.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Use objects to store and access data.
-- Communicate technical concepts to other technical people.
+- Use AAA pattern for unit tests.
+- Write units tests for a JavaScript app.
+- Follow Gitflow.
+- Solve simple git conflicts.
+- Send and receive data from an API.
+- Use API documentation.
+- Understand and use JSON.
+- Make JavaScript code synchronous.
+- Perform a code review for a team member.
 
-### Estimated time: 19.5h
+### Estimated time: 20.5h
 
 ## Description
 
-In this capstone project (([remember what they are?](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md))
-) you are going to build is based on an *online website for a conference*. We provide some design guidelines for you to create the website, but **you must personalize the content**, i.e., instead of a conference you can build a website for a concert or for a web development course. It's very important the you personalize your project so that you have something unique in your portfolio to share with potential employers during job searching.
+The JavaScript capstone project ([remember what they are?](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md)) is about building your own web application based on an external API. You will select an API that provides data about a topic that you like and then build the webapp around it. The webapp will have 2 or 3 user interfaces (depending on the size of your team):
+- A home page showing a list of items that you can "like."
+- A popup window with more data about an item that you can use to comment on it or reserve it for a period of time.
 
 <p align="center">
-  <img src="./images/conference_page.png" alt="Form" />
+  <img src="./images/Home.png" alt="Home page" />
+</p>
+
+<p align="center">
+  <img src="./images/Comments.png" alt="Comments page" />
+</p>
+
+<p align="center">
+  <img src="./images/Reservations.png" alt="Reservations page" />
 </p>
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
@@ -31,7 +43,7 @@ In this capstone project (([remember what they are?](https://github.com/microver
 ### General requirements
 
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you used correct [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### HTML/CSS & JavaScript requirements
@@ -41,99 +53,123 @@ In this capstone project (([remember what they are?](https://github.com/microver
 
 ### Project requirements
 
-- You should personalize the content of your page. Choose a topic that is different than the one in the original design.
-- You should follow these [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), including:
-  - Colors.
-  - Typography: font face, size and weight.
-  - Layout: composition and space between elements.
-- The pages should look almost identical to the original design. Small adjustments like text or image changes are acceptable.
-- You can use a CSS framework (for example Bootstrap) for styling, if you want to.
-- You should build only these 2 pages:
+
+**IMPORTANT NOTE:** in this project you will also practice giving code reviews to your teammates. Remember to read the [Code Review](#code-review) carefully!
+
+**APIs**
+- First, you need to find an API so you can base the development of the webapp around it. The API should allow you to:
+  - Get a list of items with a unique item id (or generate the unique id).
+  - For a given item, get detailed information about it.
+  
+  We recommend that you choose an API that **doesn't need authentication**. if you select an API that requires authentication, you should implement it on your own. Also, if you select an API that provides **image** resources your webapp will be more visual.
+
+  Some example APIs are:
+  - [Pokeapi](https://pokeapi.co/): data about the Pokémon world.
+  - [TVmaze API](https://www.tvmaze.com/api): data about TV series and movies.
+  - [Meals DB](https://www.themealdb.com/api.php): data about meals.
+
+You can find more APIs in [this GitHub repo](https://github.com/public-apis/public-apis) or in [ProgrammableWeb](https://www.programmableweb.com/category/all/apis). Some of the APIs require a token, some require authentication, and some others are just open.
+- You will use our [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) to record the different user interactions (likes, comments and reservations).
+
+**Interfaces**
+- You should build these interfaces:
   - The *home page*.
-  - The *about page*.
-- Each of these pages should have versions for 2 different screen sizes: 
-  - Mobile: up to 768px wide.
-  - Desktop: 768px or wider.
+  - The *comments popup*.
+  - The *reservations popup* (only for the groups of 3 students).
+- You should follow the layout of the wireframes provided. You should personalize the rest of the design including colors, typographies, spacings, etc.
+- Home page
+  - When the page loads, the webapp retrieves data from:
+    - The selected API and shows the list of items on screen.
+    - The Involvement API to show the item likes.
+  - Remember that your page should make only 2 requests:
+    - One to the base API.
+    - And **one** to the Involvement API.
+  - When the user clicks on the Like button of an item, the interaction is recorded in the Involvement API and the screen is updated.
+  - When the user clicks on the "Comments" button, the Comments popup appears.
+  - When the user clicks on the "Reservations" button, the Reservations popup appears (only for the groups of 3 students).
+  - Home page header and navigation similar to the given mockup.
+  - Home page footer similar to the given mockup.
+- Comments popup
+  - When the popup loads, the webapp retrieves data from:
+    - The selected API and shows details about the selected item.
+    - The Involvement API to show the item comments.
+  - When the user clicks on the "Comment" button, the data is recorded in the Involvement API and the screen is updated.
+- Reservations popup (only for the groups of 3 students)
+  - When the popup loads, the webapp retrieves data from:
+    - The selected API and shows details about the selected item.
+    - The Involvement API to show the item reservations.
+  - When the user clicks on the "Reserve" button, the data is recorded in the Involvement API and the screen is updated.
 
-- Interactions
-  - Links
-    - The *home page* should have a link in the menu to the *about page*.
-    - The logo in the header links to the *home page*.
-  - Mobile menu
-    - When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.
-    - There are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.).
-    - The mobile menu should have a close (X) button that closes the menu.
-- Dynamic page
-  - The section "Featured speakers" should be created dynamically in JavaScript.
-  - You should use a JavaScript variable with the data about the speakers and use it when the page loads to create the HTML for this section dynamically.
+**Counters**
+We have counters in all the interfaces that show:
+- The number of items (home).
+- The number of comments (comments popup).
+- The number of reservations (reservations popup) - only for the groups of 3 students.
 
-Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+Even if the API gives you these numbers, you will create a specific function to calculate these numbers in each page. These count functions need to be covered with unit tests using Jest.
 
-The [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/) requires that you give appropriate credit to the author. Therefore, you must do it in the README of your project.
+**Technical set up**
+- Set up the repository on GitHub and use Gitflow.
+- Set up webpack.
+- Set up a JavaScript testing library (Jest).
 
 ### Project documentation
 
 Once you have finished the development of the project, you should record a video presenting the features of the project you built. It is a video with a **maximum length of 5 minutes**. The content of the video should include:
 
 - A description of the project.
-- A demo of the project features (different pages and different screen sizes).
+- A demo of the project features.
 - You should also highlight some interesting piece of code or something you built that you are very proud of.
+- You all should appear in the video and talk about the project.
 
-For recording the video you can use tools like [Loom](https://www.loom.com/) that let you share a private link to the recording, and configure a shot that shows your computer screen and your face at the same time in a small picture.
+For recording the video you can use the Zoom recording features while in a call with your peers.
 
-**Add the video link to your pull request description.**
+### Workload distribution
 
-## Challenge breakdown
+In order to tackle this challenge, we created [a template of the Kanban board with GitHub project](https://github.com/microverseinc/curriculum-javascript/projects/1) that translates the requirements into a set of tasks that you will be able to use to organize your work. You will create your own copy of that board in the separate activity. 
 
-In order to tackle this challenge, you need a plan! We created high-level milestones for you. Your job is to make them more detailed.
+You will be working in this way:
+- The common tasks (set up repo, find the API, shared work on the home page) will be divided among all of you or completed as a team (pair programming).
+- The tasks related to a specific page will be developed individually, with every student owning the development of one page.
+- All tasks should be based on the cards from your Kanban board.
+
+Below you can see a suggestion of what you can do every day (just a suggestion, not mandatory). 
+
+### Day 0
+
+- Choose the topic for your website and the API.
+- Choose images, text, icons, fonts.
+- Set up the repository and tools.
 
 ### Day 1
 
-**Milestone 0 - project setup (0.5h)**
-
-- Set up the repository and tools.
-
-**Milestone 1 - content (1h)**
-
-- Choose the topic for your website.
-- Choose images, text, icons, fonts.
-
-**Milestone 2 - mobile first (5h)**
-
-- Create the 2 pages for mobile.
-- Deploy the project.
+- Create the basic shared code on the home page.
+- Start individual interfaces.
+- Give code reviews to your teammates.
 
 ### Day 2
 
-**Milestone 3 - desktop version (5h)**
-
-- Adapt the 2 pages to desktop.
-
-**Milestone 4 - interactions (1.5h)**
-
-- Implement the user interactions: link, mobile menu.
-- Deploy the project.
+- Work on individual interfaces.
+- Give code reviews to your teammates.
 
 ### Day 3
 
-**Milestone 5 - dynamic page (5h)**
-
-- Implement the section "Featured speakers" with dynamic HTML.
-- Deploy the project and check to make sure everything works as planned.
-
-**Milestone 6 - documentation (1.5h)**
-
-- Record a video describing your project.
-- Create a good README and pull request description.
+- Complete the work on individual interfaces.
+- Record a video for your project.
+- Create a good README and PR description.
+- Ask for the external review - using your Student Dashboard.
 
 
 ## Work and submission mode
 
-- You should submit this activity **individually.**
+- You should implement the above requirements only in **one repository** in your group.
+- You should ask for a review and submit this activity **on behalf of your group.**
 
 ## Code review
 
-You will get a code review when you build the complete project, not after each milestone. When you have it ready, follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project. **You should create one pull request with the complete code of your app.**
+You will give and receive code reviewes from your teammates. Each task (i.e. each card) should have a separate pull request that is reviewed by one of your teammates. Be nice to your teammates and add link to the PR in specific card's comments.
+Once the entire project is ready, one of your team members will request a code review on behalf of your group.
+For both proccesses follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/code_review_flow_group_projects.md).
 
 ## Submit your project
 
@@ -148,8 +184,11 @@ Now go to your Student Dashboard and submit your project.
 
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
-- You could implement some UX improvements: add the "More" button on the home page, include transitions and/or animations, etc.
-- You could implement additional pages, like the *tickets page* and the *schedule page*. Make sure that you have a decent mobile design for them.
+- You could implement some UX improvements: include transitions and/or animations, etc.
+- You can implement additional home pages, one page per category of items.
+- Make sure that you have a decent mobile design for the webapp.
+
+**Remember to add cards to your Kanban board if you decide to implement additional tasks.**
 
 ------
 

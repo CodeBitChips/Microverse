@@ -1,35 +1,55 @@
-# Capstone projects introduction
+# Morning session: Making strong teams part 1
 
 ## Learning objectives
 
-- Understand how capstone projects work at Microverse.
+- See the difference between proactive and too-late communication regarding progress on work.
+- Apply knowledge of setting working agreements to set group project teams up for success.
 
-### Estimated time: 0.5h
+### **Estimated time**: 0.5h
 
-## Description
-Let's learn about capstone projects at Microverse together!
+## Making strong teams part 1
 
-### Why are capstone projects important?
-Capstone projects are solo or group projects at the end of the each of the Microverse Core Curriculum modules. Building this project is very important for you because:
+This lesson talks about the requirements to make a strong team.
 
-- It is similar to real-world projects you may be asked to make, and it is built with business specifications that will look really nice in your portfolio.
-- You will get feedback about the achievement of technical and soft skills gained during this module of the program.
+### Why is making strong teams important?
 
-### Learn more
+Teams can only work well when everyone follows the agreements.
 
-Watch this introductory video about capstone projects with your group:
+This is important later in the workplace. Giving status updates, being transparent about your work, and helping other team members are all part of being an accountable and productive team member.
 
-[![Capstone intro](https://img.youtube.com/vi/2dBGijG_a7I/0.jpg)](https://www.youtube.com/watch?v=2dBGijG_a7I)
+### Effective communication during group work
 
-If after watching you're still unclear on how capstone projects work, you can visit the [capstone project FAQ](https://microverse.zendesk.com/hc/en-us/sections/360009497534-Capstone-Projects).
+**Guiding questions:**
 
-## Challenge yourself
-*Use these questions to check what you learned during this lesson.* 
+- What kind of communication will make group work more effective?
+- What kind of communication will help with remote group work?
+- What is the impact of poor communication in group work?
 
-- What is a capstone project? How is it different from other Microverse projects?
-- Who is performing the role of the client in a capstone project?
-- Who is making the technical / implementation decisions in a capstone project?
-- Regarding capstone projects, is it better to submit them "good and timely" or "perfect and late"?
+**Learn more about effective communication in group work:**
+
+- [Effective communication in group work](https://www.loom.com/share/5fa017a9233f43b9bae58ff37fd60e2a)
+
+### Refresh on setting working agreements in teams
+
+Remember, setting working agreements with teammates you'll be interacting with every day will help you stay coordinated and work more smoothly together this week.
+
+- [Video: Working agreements in Agile teams](https://www.youtube.com/watch?v=0Lyy4CBOO3g)
+
+### **Discussion questions:**
+
+All of you are working with teams in group projects this week. This is the first time you will be working this way. ****Spend the remaining time discussing the following questions as a group.
+
+- How will you apply proactive communication in your project group?
+- What will you do if a team member is not communicating proactively?
+- Are there things you know about yourself as a team member that would be good to tell group project teammates so your work can go more smoothly together (e.g. I come from a culture that doesn't emphasize punctuality; I'm working on it, but I may have times where I struggle to be punctual).
+
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [6 Qualities That Make a Great Team Player](https://www.indeed.com/career-advice/career-development/team-player-qualities)
+- [Team working agreements - What? Why? How?](https://medium.com/@angelydaz/team-working-agreements-what-why-how-28b2970b71ca)
+- [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/knowledge/articles/360050419034/en-us?brand_id=360002597114&return_to=%2Fhc%2Fen-us%2Farticles%2F360050419034)
 
 ------
 
