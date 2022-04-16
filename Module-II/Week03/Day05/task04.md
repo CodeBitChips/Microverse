@@ -1,82 +1,71 @@
-# Fundamentals of giving and receiving feedback
+# Learn to ask great questions
 
 ## Learning objectives
 
-- Recognize and practice receiving constructive feedback as a gift and an opportunity for growth.
-- Learn about and practice giving constructive feedback to teammates.
+- Demonstrate the ability to provide all the context needed and ask a great question when you need help.
 
-### Estimated time: 1.5h
+### **Estimated time**: 1h
 
-## How to give positive and constructive feedback
+## Learn to ask great questions
 
-In this activity, we will talk about the importance of giving and receiving feedback. You will get a chance to practice this with your partner, so you're ready to take these new skills into your daily life as a remote professional.
+This lesson will talk about how to ask great questions and how great questions will contribute to your learning as a software developer. In the exercise you will have the opportunity for guided practice on asking great questions.
 
-### Why is giving and receiving feedback important?
+### Why is learning to ask great questions important?
 
-At Microverse, students work in pairs and teams to learn to code and this brings with it many opportunities to see how each other work up-close. There is great power in learning this way; it’s motivating and gives you access to smart peers every day who are on the same journey you are. However, it can also come with difficulties when you find yourself in disagreement with your partner. Common challenges that come up with Microverse partners—and are similar to the kinds of challenges faced in teamwork at a real job—include:
+As a Microverse student, you have questions every day. As a junior developer in your first job, you will have many, many more. Learning to be a good developer is about learning how to learn, and a crucial element of this is getting good at asking questions and seeking help.
 
-- One person insisting there’s only one way to learn things or complete projects and not listening to the other’s opinions
-- One partner getting too competitive or moving too quickly
-- One person consistently not showing up or getting distracted during work time
-- One person constantly interrupting and talking over their partner
+Learning new things can be overwhelming. There is so much that's unknown, and until you have a foundation, it can feel like you have nothing *but* questions. With time it does get easier—you'll see! Getting good at asking questions—and listening to the answers—will speed up your learning process and help you immeasurably throughout your career at Microverse and in future jobs. People say the road to being an expert is 1,000 hours of practice; think of that road as paved with 10,000 questions.
 
-Learning to work together and move past these kinds of challenges involves learning to communicate about what works and doesn’t work and finding ways to compromise or get help changing the situation when necessary. An important element of this communication is the ability to give and receive positive and constructive feedback.
-
-### What is feedback?
-
-Feedback is information about how another person is doing their work or communicating with others. It is a conversation in response to another’s actions. Feedback can be about praise, but it can also be about learning. Some people think of feedback as a gift, because it is an opportunity to learn about ourselves and get better.
-
-[Giving constructive feedback](giving-constructive-feedback.md)
-
-### Learn more about giving good feedback
-
-To learn more about constructive feedback and begin connecting with your own experiences, read the following article, then watch **at least two** of the four videos referenced in the article. If you aren't sure which to choose, watch the first minute or two of each and then choose (or watch all four if you have time!).
-
-- [Have a Complicated Relationship With Feedback? These 4 TED Talks Can Help](https://www.inc.com/joe-hirsch/4-ted-talks-from-women-that-will-change-your-relationship-with-feedback.html)
+### Learn more about great questions
 
 **Guiding questions:**
 
-*Keep these in mind while watching the videos.*
+- What makes a question good?
+- What's the benefit of asking good questions?
+- Why could dumb questions be good?
 
-- What is good feedback according to the speaker?
-- What do you agree with?
-- What do you disagree with?
-- What else would you like to know?
+**Learn more about great questions:**
 
-### Practice giving positive and constructive feedback
+- [How to ask questions better | Tim Ferriss](https://www.youtube.com/watch?v=ALMg-7-2trY)
+- [The most successful people ask dumb questions](https://bigthink.com/videos/tim-ferriss-on-the-importance-of-asking-dumb-questions)
+- [What makes a great question?](what-makes-a-good-question.md)
 
-Similar to how people practice playing an instrument every day to improve, we know that practicing the skills we are teaching will help you improve as well. In this exercise, you will read about two common scenarios from real Micronauts. Then, you will record a video of yourself delivering the feedback in a constructive way.
+### How questions are different in the remote environment
 
-[Practice giving positive and constructive feedback](practice-giving-positive-and-constructive-feedback.md)
+Guiding questions:
 
-### Learn about receiving feedback
+- What makes a question different in the remote environment?
+- What should we pay extra attention to when creating questions in the remote environment?
 
-Just like it is difficult to give feedback, it can also be difficult to receive it. We generally do not like it when people give us negative feedback, so there are a few steps that you can follow to make sure you learn something from the feedback that is given to you.
+**Learn more in the following article:**
 
-[How to learn from the feedback you receive](how-to-learn-from-the-feedback-you-receive.md)
+- [How to ask great questions in a remote environment](asking-great-questions-in-a-remote-environment.md)
 
-### Challenge yourself
+## Exercise
 
-*Use these questions to check what you learned during this lesson.*
+### Instructions
 
-- Feedback can be about praise and what else?
-- Receiving feedback is a good opportunity for what?
-- What is the first step for learning when you are receiving feedback?
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-Click [here](challenge-yourself-answers.md) to check your answers to these questions.
+1. Complete part 1
+2. Complete part 2
+3. Send out your message to the designated person using e-mail, Slack, LinkedIn, etc.
 
-### Additional materials
+**Exercise template to copy:** [Learn to ask great questions exercise](https://docs.google.com/document/d/11G1pIb0pfM9D5ojdD_nQUwPOYXrVbKlagh9NO5ol0MY/edit)
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.*
+### Submit your exercise
 
-- [5 Steps to Giving Good Feedback | The Muse](https://www.themuse.com/advice/5-steps-to-giving-good-feedback)
-- [How to give constructive and useful Peer-to-Peer Feedback | OpenClassrooms Blog](https://blog.openclassrooms.com/en/2019/06/18/how-to-give-constructive-and-useful-peer-to-peer-feedback/)
-- [How to Become an Effective Active Listener | Balance Careers](https://www.thebalancecareers.com/want-to-become-a-better-listener-1918650)
-- [Video: Listening to Feedback | CareerBrainery](https://www.youtube.com/watch?v=6QupnaPvz4Q)
-- [The Complete Guide on How to Receive Feedback | Medium](https://medium.com/live-your-life-on-purpose/the-complete-guide-on-how-to-receive-feedback-f25c29913c93)
-- [Getting Feedback | MindTools](https://www.mindtools.com/pages/article/getting-feedback.htm)
-- [Taking Constructive Criticism Like a Champ | The Muse](https://www.themuse.com/advice/taking-constructive-criticism-like-a-champ)
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
+Now go to your Student Dashboard and submit your exercise.
+
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [Leaders know this simple trick for asking better questions](https://www.forbes.com/sites/davidmarquet/2017/02/19/leaders-know-this-simple-trick-for-asking-better-questions/?sh=607728877f06)
+- [The stupid easy change that made me ask better questions (and led to better answers)](https://www.themuse.com/advice/easy-change-ask-better-questions-get-better-answers)
+- [The art of asking questions](https://www.freecodecamp.org/news/the-art-of-asking-questions-84c01c9987a4/)
 
 ------
 

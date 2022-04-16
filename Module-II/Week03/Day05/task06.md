@@ -1,55 +1,63 @@
-# First retrospectives
+# Update your GitHub profile page based on feedback
 
-## Learning objectives
+## **Learning objectives**
 
-- Learn to view setbacks and failure positively as opportunities to learn.
-- Show you know how to use daily update and weekly retrospective forms to drive successful meeting activities.
+- Prepare a strong GitHub profile
 
-### **Estimated time**: 0.25h
+### **Estimated time: 1h**
 
-## Description
+## **Description**
 
-The goal of this activity is for you to learn how to use the first weekly retrospectives to reflect on the progress you made the previous week, as well as think about challenges you faced and how to overcome them. 
+In this lesson, you'll use the feedback you received from project reviewers to update and improve your GitHub profile.
 
-### What is a retrospective?
+## Why is it important to update your GitHub profile based on feedback?
 
-Weekly retrospectives are a common practice with software developer teams and technology companies. They can be used by teams or by individuals to look back and evaluate their performance and determine what they did well and what can be improved. Retrospectives are used to celebrate small wins, point out and analyze blockers, see if there are any patterns to performance, and improve based on all those inputs.
+As we've mentioned before, very few people are capable of creating perfect first drafts of anything; we all make mistakes, and we can all benefit from constructive critique. By listening to and analyzing feedback from others, we're then able to identify our areas of weakness, and potentially come up with new ideas for how to improve them.
 
-### Why are retrospectives important?
+This step of the GitHub editorial process is used to further refine and polish your GitHub profile, so that you'll have the best chance possible of immediately grabbing the attention of any recruiter, hiring manager, or software developer who visits your profile page.
 
-Setting goals and reflecting on them is a crucial skill that will help you stay focused and productive.  Clarity of what you need to accomplish will help you balance out the stress of completing the curriculum and will motivate you to keep working hard to achieve your ultimate goals at Microverse.
+## Project Setup
 
-We ask you to set weekly goals through your weekly retrospective as it will allow you to better understand how you can continuously improve yourself. The continuous reflection which comes with the weekly retrospective will help you see patterns on what your strengths are, and what areas of improvement exist for you.
+- Log in to your GitHub account.
+- Open your project reviewer's previous numerical and written feedback. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
-## Exercise
+## Using project reviewer feedback to improve your GitHub profile
 
-### Instructions
+As a software developer, your code will periodically undergo code reviews and quality control; this is normal and is a powerful way of helping us learn more and improve on our projects. In a similar way, project reviewers will review your professional skills projects, such as your GitHub, in order to help you identify areas where you have the opportunity to further improve on your work. 
 
-Before you start filling in your first retrospective, there are a few key areas you have to think about and critically assess. In order to do so, remember that your retrospective should be about how you performed throughout the full week, and not just about whether you hit all your targets on Friday. Before filling in the form, ask yourself the following questions: 
+In the link below, we'll discuss a few helpful tips to ensure that you gain the most value from the feedback you receive, and that you're able to implement the feedback efficiently and correctly. We previously shared this link, but it's important to review it before each round of the feedback process to ensure that you're in the best editorial mindset possible.
 
-1. **What did I accomplish this week?**
+**Learn more about how to use feedback to improve projects:**
 
-    Think about what goals you set for yourself the previous week. Did you complete all of them? What went really well and why? Take a minute to congratulate yourself for those things you excelled at and accomplished. Celebrate those small weekly wins which get you one step closer to your ultimate goal of becoming a developer.
+- [How to use project reviewer feedback to improve your professional skills projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-use-project-reviewer-feedback-to-improve-your-professional-skills-projects.md)
 
-2. **What were my challenges this week?**
+## Project submission
 
-    Think about what was left unfinished or didn't go well for you this week. Did you run into any problems or experience any blockers? What could you have done to avoid or mitigate those issues? Be as honest as possible, since identifying the correct issue will help you avoid these challenges in the following weeks.
+### Project requirements
 
-3. **What one thing will I do differently next week?**
+- [Make sure that your GitHub profile meets every requirement of the GitHub rubric](https://docs.google.com/document/d/1A1x6Vqm6rmChKkb3T3IXBWRNyygTZ2oiHCPZq4IrXT4/edit). If you have followed the [GitHub curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md), it should do so automatically.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
-    What are your goals and objectives for next week; what do you want to accomplish? Think about the personal productivity, time management, and professional goals you are working on, in addition to coding and the curriculum. Taking into consideration your insights from last week, write down one thing you will do differently in the coming week to work towards your goals.
+### **Submission instructions**
 
-### Submit your exercise
+- Carefully review **all feedback** given to you by your project reviewer.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
+- Run all text on your GitHub profile (including project descriptions, personal README text, and your bio) through a spellcheck and grammar check tool before you submit it, **even if you did so previously**; it is very common to accidentally introduce new errors when making edits/changes to a piece of text.
 
-Now go to your Student Dashboard and fill in your retrospective form.
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-
-- [Self-reflection, retrospective and journaling](https://agileleanlife.com/self-reflection-retrospective-and-journaling/)
-- [How to Do Your Own Personal Retrospective?](https://blog.jthoenes.net/2012/09/20/how-to-do-your-own-personal-retrospective/)
-- [Golden Rules of Goal Setting](https://www.mindtools.com/pages/article/newHTE_90.htm)
+- [Video - How to use others' feedback to learn and grow | Sheila Heen | TEDx](https://www.youtube.com/watch?v=FQNbaKkYk_Q)
+- [What Makes a Good GitHub Profile?](https://codeburst.io/what-makes-a-good-github-profile-ced754284e3d)
 
 
 ------

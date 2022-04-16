@@ -1,29 +1,90 @@
-# Sum of Odd Fibbonacci Numbers 
+# What are professional mentors and how can I find one for myself?
 
 ## Learning objectives
-- Solve simple interview-like coding challenges.
-- Practice pseudocoding coding challenges.
-- Practice writing code aloud while working alone.
 
-### Estimated time: 1.5h
+- Explain the importance of professional mentors and mentorship.
 
-## Exercise
+### Estimated time: 0.5h
 
-### Instructions 
-*Check out this FAQ if you need a refresher on [how to use GitHub Classroom](https://github.com/microverseinc/curriculum-computer-science-fundamentals/blob/main/trivial-interview-questions/articles/how_to_use_github_classroom.md).*
+## Description
 
-- As this challenge should be solved by doing a pair-programming, first decide who will be the driver and who will be the navigator:
-    - You won't switch roles during the challenge as you cannot invite collaborators to the private repo.
-    - Make sure that you and your coding partner(s) experience both roles (the driver and the navigator) in a given week. _For example: if you were the navigator while solving the challenge yesterday, make sure that today you are the driver._
-- The driver shares their screen and accepts the [Sum All Odd Fibonacci Numbers assignment](https://classroom.github.com/a/w2k-xuwh).
-- Check the instructions in the assignment README.
-- Start recording your screen by using [Loom](https://www.loom.com/).
-- Try pseudocoding first.
-- While solving the challenge, speak aloud and explain your thinking process.
-- Once you solve the challenge, copy the link to your Loom video.
+In this lesson, you will learn what a professional mentor is and how you can find one for yourself.
 
+### Why is finding a professional mentor important?
 
-### Submit your exercise
-[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your exercise.
-Paste the link to your Loom video.
+Professional mentors tend to be more experienced people in a particular topic or set of topics, who are willing to help others grow their skills. They are people excited to give back to the community by helping others develop their technical and professional skills.
+
+Having a mentor will help increase your confidence. You will learn from your mentor's experience, and will also get insight into what the tech industry is like, as well as tips and tricks to progress in the industry. The mentor also gains from this experience as they are able to reinforce their knowledge and even discover things they may not have known. It's a win-win situation for everyone.
+
+### Understanding mentoring relationships
+
+In a mentoring relationship, there is a mentor and a mentee. In this part of the lesson, we will look into what a mentor is, what a mentee is, and the relationship that exists between them called a mentorship.
+
+**Learn more about a mentor, a mentee and mentorship:**
+
+- [What are a mentor, a mentee and mentorship?](what-are-a-mentor-a-mentee-and-mentorship.md)
+
+### How to set expectations in a mentorship
+
+Now we will focus on expectations to set in your mentorship so that both you and your mentor have a clear understanding of what to expect at each meeting.
+
+**Guiding questions:**
+
+*Think about these questions as you learn how to set expectations in a mentorship*
+
+- Is the mentorship a friendly discussion or are there goals to be met?
+- How can I make the most of my mentorship relationship?
+
+**Learn more about setting expectations in a mentorship:**
+
+- [How to set expectations in a mentorship](how-to-set-expectations-in-a-mentorship.md)
+
+### How to build a strong mentorship relationship
+
+As mentioned at the start of this lesson, mentorship is a win-win situation for both the mentor and the mentee, but for it to work, both parties need to maintain the relationship by applying strong professional skills.
+
+**Guiding questions:**
+
+*Think about these questions as you learn how to build a strong mentorship relationship*
+
+- How do I show professionalism in a mentorship?
+- What skills do I and my mentor need to bring in order to have a strong mentorship relationship?
+
+**Learn more about building a strong mentorship relationship:**
+
+- [How to give and receive in a mentorship relationship](how-to-give-and-receive-in-a-mentorship.md)
+
+### How to choose your mentor
+
+Now that you have learned about mentorship in general, let's turn to how you can choose a mentor who feels right for you.
+
+**Guiding questions:**
+
+*Think about these questions as you learn about choosing a mentor*
+
+- What are the good qualities a mentor should have?
+- What signs should I look out for when choosing a mentor?
+
+**Learn more about how to choose your mentor:**
+
+- [What to look out for in a mentor](what-to-look-out-for-in-a-mentor.md)
+
+### Where to find a professional mentor
+
+Finally, in this part of the lesson, we will look at how you can find a professional mentor. We recommend using the website below as a trusted avenue for finding mentors. You can also reach out to people you make connections with in other professional community spaces like Slack, Meetups, or at industry coffee chats.
+
+**Learn more about finding professional mentors:**
+
+- [Find a mentor on codingcoach.io](http://codingcoach.io): You can find a variety of mentors with different levels of experience and based in different locations. Simply click on the tab "*Mentors*" and browse through the different mentors available. You will need to register on the website to browse profiles.
+
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time*
+
+- [The power of the technical mentor](https://technical.ly/philly/2019/09/09/angel-young-web-developer-power-technical-mentor/)
+- [How I mentored women and helped them get into tech during a world pandemic](https://www.freecodecamp.org/news/mentoring-women-in-tech-during-a-pandemic/)
+- [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/#when-you-are-a-mentee)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
