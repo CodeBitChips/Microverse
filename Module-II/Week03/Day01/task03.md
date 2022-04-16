@@ -1,43 +1,38 @@
-# Second look at the code review process
+# Refresher: JavaScript best practices
 
 ## Learning objectives
+- Apply JavaScript best practices and language style guides in code.
 
-- Demonstrate ability to respond to a code review respectfully and professionally.
-- Address code review comments from different team members (code reviewers) and communicate respectfully.
-- Implement feedback from code reviewers to improve your project.
+### Estimated time: 0.25h
 
-### Estimated time: 1h
+## Description
 
-## Description 
-You have received a few code reviews already, and you have also had a chance to perform code reviews. With this experience you are now ready to revisit the code review concept.
+You have already built a few projects that use JavaScript. Thanks to that, you have learned new concepts from the front-end world.
+As you created those projects, we asked you to remember JavaScript best practices. Now it is time to reflect on that.
 
-Code review is a simple process from a technical standpoint but it can be difficult because it requires a lot of communication and feedback cycles with many different people. Therefore before performing a code review it is important to put yourself into a mindset full of empathy, humility and eagerness to improve.
+### Why is refreshing your JavaScript best practices knowledge important?
 
-### Why is it important?
+While learning new concepts, you can easily get excited about new possibilities and forget about best practices.
+And following best practices will make your code more maintainable and easier to work with - for you and for other developers.
 
-In your future job you will get code reviews from your team members, who may be more experienced or less experienced than you in various different aspects of coding.
+**Guiding questions:**
 
-Here's the bad news: usually the first code review is a somewhat frustrating experience. Imagine yourself delivering the beautiful piece of code that you have been working on for many hours and seeing several comments telling you that you could have done something better! In a worst case scenario code reviews can sometimes even encourage you to rewrite whole features using a completely different approach and encourage you to completely remove the original code for those features.
+*Think about these questions:*
 
-Here's the good news: If you remember that good quality code requires a team effort, you will be grateful for every comment in your code review. Code review is not a message to you that something is wrong with your code, it is a message that your code can still be improved. And many times code review can protect you from making the same mistakes that others made before you.
+- Do I already have a habit of applying the best practices? Does it come naturally?
+- Do I make some final checks on my code to verify best practices usage before asking for a code review?
+- How often am I asked to make changes in my code because it does not align with the best practices?
 
-Practicing the code review process at Microverse can save you a lot of frustration in your first job.
+### Refresher on JavaScript best practices
 
-### A healthy code review mindset & best practices
+- Take a moment to read the [JavaScript best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md) article again.
+- Also check [JavaScript best practices](https://www.w3schools.com/js/js_best_practices.asp) by _w3schools_.
+- Check out [JavaScript common mistakes](https://www.w3schools.com/js/js_mistakes.asp) by _w3schools_ as well.
 
-Read these 3 articles about code reviews:
-- [Bringing a healthy code review mindset to your team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/) by Sandrina Pereira.
-- [Code review best practices: how to make people like your code review](https://tsh.io/blog/code-review-best-practices/) by Marcin Gajda.
-- [A Guide to Mindful Communication in Code Reviews](https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e) by Amy Ciavolino.
+## Additional materials
+**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
-
-### Challenge yourself
-
-Take time to reflect on your code reviews. Ask yourself the following questions:
-- Do I prepare my pull requests well for code reviews?
-- Do I approach code reviews with humility, and perceive code reviews as opportunities to learn?
-- Do I communicate prefessionaly with code reviewers?
-- Do I apply code review best practices when I give code reviews during the morning sessions?
+Read the [JavaScript style guide](https://www.w3schools.com/js/js_conventions.asp) by  _w3schools_.
 
 ------
 

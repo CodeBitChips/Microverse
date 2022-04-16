@@ -1,60 +1,70 @@
-# Becoming a Remote Professional Part 1
+# Morning session: Cross-cultural communication skills - part 1
 
 ## Learning objectives
 
-- Demonstrate ability to regularly show up to meetings and be on time.
-- Recognize punctuality as a form of respect and key to success in global remote work.
-- Recognize the key elements of a professional working environment (i.e. good Internet connection, no background noise, good seating arrangement, good lighting, etc.)
+- Learn how to use communication and cross-cultural knowledge as tools when conflicts arise in working relationships.
+- Understand how to communicate across cultures, using empathy and curiosity and actively questioning own biases.
+- Understand that respect is the foundation of strong relationship-building with teammates.
 
-### Estimated time: 0.5h
+### **Estimated time**: 0.5hr
 
-## Introduction
+### Understanding cross-cultural communication
 
-The purpose of this lesson is to introduce the key skills needed to successfully work remotely. In this article we focus on punctuality as a remote work skill.
+*Read through the following section on your own while staying on the Zoom call with your group.* 
 
-### Why are remote work skills important?
+*Spend 5 minutes on this section individually*
 
-Setting yourself up for success can help you take full advantage of the benefits working from home has to offer while also providing your employer with quality work. In order to remain productive, connected, and successful in today’s remote workforce, it’s important to recognize what it takes to be able to balance your workload. Remote work skills such as punctuality help you develop your professionalism which is essential for launching and advancing a successful career.
+We all see the world a little differently. Sometimes the places and cultures in which we grew up or currently live. can affect how we see things. Different points of view can sometimes lead to disagreements or conflicts. 
 
-### Benefits of showing professionalism by being punctual in a remote work environment.
+### Why is understanding cross-cultural communication differences important?
 
-Committing to professionalism will help employers understand your ability to be reliable and capable. However, different scenarios require different behaviors. Let's use the link below, as a group, to learn more about the essence of punctuality with your colleagues and in different cultural contexts.
+Microverse cohorts include students from many different countries and cultures. This is not unlike the diversity that you may encounter when working on a team in a multinational company, or even just within a company in your own country. Being aware of these differences, especially related to communication, can help us to be more empathetic and understanding, and allow us to better manage conflicts that may arise. 
 
-[Punctuality as a remote work skill](punctuality-as-a-remote-work-skill.md)
+### Recognizing different communication styles
 
-### Punctuality in different cultures
+Guiding questions:
 
-By considering working styles across different cultures, you're able to discuss punctuality in the context of culture.
+- How can miscommunication cause conflicts in groups?
+- How can empathy help to avoid conflicts related to communication?
 
-To learn more about the concept of punctuality across the world, follow this interactive and study this as a group: [Punctuality Around The World.](https://www.mrgamez.com/punctuality/)
+### Group discussion
+
+*Spend 10 minutes on this section as a group*
+
+As a group, watch this video about [direct and indirect communication styles](https://www.youtube.com/watch?v=0W9iLrfyq20). Discuss which communication style is more common in your culture. Is that the same style that you also tend to use personally?
 
 ## Exercise
 
-**Group Discussion**
-*Spend five minutes discussing this with your group.* 
+### Recognizing and adapting communication styles
 
-From the above lesson, you have learned about the importance of punctuality as a skill of a remote work professional. You have also learned that the concept of punctuality varies cross-culturally.
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
-In a group, discuss what punctuality means in your respective cultures, and answer the following reflection questions.
+*Spend 5 minutes working on this exercise.*
 
-- What have I learned about punctuality from other cultures?
-- How is punctuality reflected in my own culture?
+1. Open and copy the exercise template
+2. Read the situations and fill out your responses in the table. 
 
-**Individual Exercise
+**Exercise template to copy:** [Morning session: Cross-cultural communication skills - part 1](https://docs.google.com/document/d/1ba-IcortHf0HTQQTSoJtGpKutIxqMtlIcO8VnXGD-vA/edit#)
 
-**Time Estimate: 7 minutes**
+### Group discussion
 
-Do this exercise individually, but stay on the Zoom call with your group. Submit one thing you learned about punctuality at Microverse and one thing you learned about punctuality in other cultures besides your own.
+*Spend 10 minutes talking about this as a group.* 
 
-**Exercise template to copy** Use this [Google Doc Template](https://docs.google.com/document/d/1aIctqqGcfFqwyAW7XhizLyXo4G1WTGKMPMkFbiDC2tY/edit?usp=sharing) to create your submission.
+Share your responses to the exercise together as a group. 
 
 ### Submit your exercise
 
-[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise. Exercise
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-### Additional Resources
+Now go to your Student Dashboard and submit your exercise.
 
-In this article, you can read about a Muslim woman of Bangladeshi origin, now living in the UK, who shares her experiences understanding the concept of punctuality and time across different cultures – especially Western culture as compared to Asian culture: [Understanding The Concept Of Punctuality And Time In Different Cultures.](https://culturallyours.com/2019/05/31/punctuality-across-cultures/)
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [How to say no politely](https://dictionaryblog.cambridge.org/2016/11/09/how-to-say-no-politely/)
+- [Top ten tips for effective cross-cultural communication](https://www.chrysos.org.uk/blog/top-ten-tips-for-effective-cross-cultural-communi)
+- [What to do after an uncomfortable conversation with a coworker](https://hbr.org/2019/05/what-to-do-after-an-uncomfortable-conversation-with-a-coworker)
 
 
 ------

@@ -1,46 +1,67 @@
-# Pair programming: how to do it well
+# JavaScript packages management
+
 
 ## Learning objectives
-- Demonstrate the ability to work as a navigator while pair programming.
-- Demonstrate the ability to work as a driver while pair programming.
 
-### Estimated time: 1.5h
+- Use npm as a software packages system.
+
+### Estimated time: 1h
 
 ## Description
 
-Pair programming is a technique that involves two people working together to solve the same programming problem. In pair programming both partners work on the same piece of code  at the same time in a synchronous way.
-Pair programming is one of the elements of the *Extreme Programming* software development methodology. Extreme Programming emphasizes improving software quality and responsiveness to changing customer requirements.
-You have already tried pair programming during the admission trials. Now it is time to reflect more on how your first pair programming experience went and get ready to practice pair programming throughout the entire Microverse program.
+In this lesson, you will learn how to use code prepared by someone else in your project in an efficient way by using packages manager.
 
 ### Why is it important?
 
-Basically, two heads are better than one. Thanks to pair programming you can learn more, you can create better code, and you can improve your communication skills.
-Efficiently doing pair programming might be challenging though, as you'll see in the reading materials. That's why we ask you to practice it at Microverse, so that you can become comfortable with the process before a future employer asks you to try this approach.
+Re-using code is a good practice. If you can make use of someones else experience in order to build your code, there is no need to re-invent a wheel.
+Pieces of re-useable code in JavaScript are called packages and in order to use them in a standardized way, you can use a package manager.
 
-If pair-programming or the collaboration with your partner is not going as expected, please reach out to Student Success right away so we can help solve the problem. This might be due to your partner not showing up, your partner not following the driver or navigator role, your partner not having a good internet connection, etc. In some cases, we will re-pair you, in other's we will try and resolve the issue. In all cases, it's better to reach out to Student Success right away so that any challenge with pair-programming does not result in a repeat week.
 
-### Get ready for better pair programming
+### Package manager
 
-- As a refresher, read the [How remote pair programming works & why it can change your life](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life).
-- Watch this 17 minute long presentation [To pair or not to pair: pair programming](https://www.youtube.com/watch?v=u_eZ-ae2FY8) from 
-ThoughtWorks.
-- Read [Pair programming at Microverse](https://microverse.zendesk.com/hc/en-us/articles/360046209594) to learn the guidelines for pair programming that you will be following while learning at Microverse.
-- Watch this example session of pair programming carefully!
-     - [![example session of pair programming](https://img.youtube.com/vi/PAh4NSj5jgs/0.jpg)](https://www.youtube.com/watch?v=PAh4NSj5jgs)
+First, read about [dependencies in your project](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management#a_dependency_in_your_project).
+Then read the part [What exactly is a package manager?](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management#what_exactly_is_a_package_manager)
+to get a general idea of this concept.
 
-- Finish by reading [The power of pair programming lies in the execution](https://medium.com/free-code-camp/the-power-of-pair-programming-lies-on-the-execution-a27938447994) to get yourself in the correct mindset about pair programming.
+### npm as a package manager
 
-## Challenge yourself
 
-*Use these optional questions to check what you learned during this lesson.* 
+- `npm` is associated with node.js and it might be confusing. Therefore first read the following fragment [Why Do You Need Node for a Front End Project?](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/#why-do-you-need-node-for-a-front-end-project)
+- Then, read ["What is npm?" by nodejs.org](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/) and ["What is npm?" by w3schools](https://www.w3schools.com/whatis/whatis_npm.asp)
+- npm is installed with Node.js. This means that you have to install Node.js to get npm installed on your computer.
+    - [Download it](https://nodejs.org/en/download/) 
+    - Verify installation
+    ```
+      node -v
+      npm -v
+    ```
 
-- How is the navigator role different from the driver?
-- How often should you change roles while pair programming?
-- Can I divide tasks between me and my partner tasks, work on them separately from my partner, and still call it pair programming?
 
-## Additional materials
-**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
-- Read about [Extreme Programming (XP)](https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1)).
+**Spoiler alert:** Above we are pointing you to the specific parts of the article "How to Set Up a Front End Development Project". You can see in that article also a part about Webpack. Please ignore it, for now, you will learn about Webpack in a separate lesson.
+
+
+### ES6 modules and packages
+
+Now, let's think for a while about ES6 modules. Remember how you can import your modules? Here is the good news: you can also import modules from external code that you add to your project as a package.
+Take a look at the example of the Three.js library: [Install from npm](https://threejs.org/docs/index.html#manual/en/introduction/Installation). In order to use its functions you need to:
+
+- Install it with npm:
+```
+npm install --save three
+```
+- Import it in your code:
+
+```
+import * as THREE from 'three';
+```
+
+### Organizing your ES6 code
+
+With external packages and your own modules, you can organize your frontend code in a better way.
+-  Check [How to Add Libraries to Your JavaScript Project](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project#how-to-add-libraries-to-your-javascript-project) to see an example of a well-structured project.
+
+
+**Spoiler alert:** Above we are pointing you to the specific parts of the article "How to Set Up a Front End Development Project". You can see in that article also a part about Webpack. Please ignore it, for now, you will learn about Webpack in a separate lesson.
 
 ------
 

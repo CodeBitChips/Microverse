@@ -1,57 +1,45 @@
-# Git & GitHub & GitHub flow
+# JavaScript classes
 
 ## Learning objectives
-- Understand the concept of version control.
-- Follow GitHub flow.
-- Create branches that each have a different base branch.
-- Open PRs in GitHub.
+- Use JavaScript classes
 
-### Estimated time: 1h
+### Estimated time: 2h
 
-## What is a version control system? How is it related to Git and GitHub?
+## Description 
 
-A version control system tracks the history of changes to files. It is especially useful in projects built by software development teams.
-As the project evolves teams can run tests, fix bugs, and contribute new code with confidence that any version can be recovered at any time.
-Reconstructing the edit history of various files can be useful for a variety of reasons, such as when you need to investigate when some change was introduced and why.
-You are already familiar with Git and GitHub but it is also important that you understand how they relate to the concept of a version control system.
+In this lesson, you will learn about JavaScript classes, how to use them, their syntax, relationship, and differences with objects and functions.
 
-### Why is it important?
+### Why are Javascript classes important?
 
-At Microverse you will use Git and GitHub to keep track of all the changes to your code as well as to collaborate with your peers.
-Understanding what Git and GitHub are will make it much easier for you to join a company and get used to their workflow faster, because almost every single company that you can join uses a version control system.
+Classes are one of the foundations of object oriented programming. JavaScript doesn't have built-in classes, but it supports classes in a particular way, using objects, and a new class *syntax* was introduced with EcmaScript 6 (you'll learn more about ES6 later in this same module).
 
-### What's the difference between Git and GitHub?
+### Classes and objects
 
-**Git** is an example of a distributed version control system. **GitHub** is a Git hosting repository that provides developers with tools to ship better code.
-Read the [10 minute long introduction article from the Git Handbook](https://guides.github.com/introduction/git-handbook/) and make sure that you understand this difference.
+JavaScript classes are not objects, they are *templates* for objects. That means that behind the scenes JavaScript classes will create objects. To create them you can use:
+- [JavaScript object constructors](https://www.w3schools.com/JS/js_object_constructors.asp) (a function!).
+- Or, the new [class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) keyword.
 
-NOTE: Stop yourself from checking all links in this article! We will guide you through what to learn about Git and GitHub in future lessons, so do not try to learn everything about them right now.
+### Class methods and the constructor method
 
-## GitHub flow
+A class may have several *methods*, which are again just functions! And a class can also have a special method called `constructor` that will be executed automatically when creating an instance of that class, which is useful for initialization. For more information, take a look at these links:
 
-GitHub flow is a detailed process for using branches with your team.
+- [JavaScript classes](https://www.w3schools.com/js/js_classes.asp).
+- [The constructor method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#constructor).
 
-***SPOILER ALERT** Github flow is slightly different than Gitflow, even though their names look alike.*
-*If you look for additional information, please make sure that you are using the correct name - Github flow. And worry not!*
-*You will learn about another flow in a few more lessons!*
+### Classes and the *this*
 
-### Why is it important?
+The `this` keyword in JavaScript is a complex concept to grasp since its value changes depending on several factors. The `this` is present in classes, objects, and functions. Take a look at the following links:
 
-If everybody in your team uses the same flow, you collaborate more effectively because everyone knows how to track the history of changes in your shared code easily.
+- [This in class context](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#class_context).
+- [The JavaScript this keyword](https://www.w3schools.com/Js/js_this.asp).
 
-### How to use GitHub flow
+## Additional materials
 
-In order to learn how to use GitHub flow with your team:
-- Read this [GitHub Guides article](https://guides.github.com/introduction/flow/) that explains the concept of the GitHub flow with a nice visualization.
-- Read [How to use GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md), which will guide you through the entire concept.
-- Skim through the [Multiple pull requests within one repo](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md) article. You will see a reminder about that process in your first projects.
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-### Additional materials
+Classes are a controversial topic in JavaScript. Some people argue that they are just *syntactic sugar* for prototype-based inheritance, and therefore they should be avoided; while others love classes for their simplified, beautiful syntax, and also think they are not just syntactic sugar but are a useful new feature of the language.
 
-**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
-
-- [Atlassian's "Git feature branch workflow" article](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
-
+Take a look at this [StackOverflow discussion](https://stackoverflow.com/questions/36419713/are-es6-classes-just-syntactic-sugar-for-the-prototypal-pattern-in-javascript) to learn more about both sides of this debate.
 
 ------
 

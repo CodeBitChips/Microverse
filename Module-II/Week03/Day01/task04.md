@@ -1,39 +1,36 @@
-# Deployment with GitHub Pages
+# DRY, KISS, and YAGNI
 
 ## Learning objectives
 
-- Use GitHub Pages to deploy web pages.
+- Understand what DRY, KISS, and YAGNI stand for and be able to explain why these ideas are important in programming.
 
-### Estimated time: 1h
+### Estimated time: 0.75h
 
 ## Description
 
-In this lesson, you will learn how to deploy a simple website using GitHub Pages.
+**DRY, KISS, YAGNI**? What are you talking about? They are just acronyms of common best practices to write *clean code*. In this lesson, you will learn what they mean and why they are important.
 
-### Why is software deployment important?
+### Why is clean code important?
 
-Once you have finished developing an application, you should make it available for your users over the internet. Software deployment (or simply *deploy*) comprises all the activities needed to make available a software system, from developers to users. It's a complex process that includes several steps, in continuous feedback (build, test, deploy, build...). There is not a single way to deploy an application - it depends on the type, size, and complexity of your app, on your technology stack and environment, and finally on the *place*, the provider (GitHub, AWS, Google Cloud, Azure, etc.) you choose to deploy on.
+There is not a single coding style or a rigid set of rules that every programmer should follow. Given the number of existing programming languages, paradigms, and personal styles, that's simply impossible. But there are some *principles* that the community has embraced, independent of the language you are working in. Some of the most popular are:
 
-### GitHub Pages
+- **DRY:** Don't repeat yourself! It simply means you should try to avoid having duplicated code. Instead, you should reuse your code when possible. *Every piece of knowledge must have a single, unambiguous, authoritative representation within a system* (Andrew Hunt & David Thomas, "The Pragmatic Programmer").
 
-During the Microverse program you will learn about different deployment tools. In this lesson we will start with GitHub Pages, a simple but powerful way to deploy your application. Its main advantages are:
+- **KISS:** Keep It Simple, Stupid. No further explanation is needed! Try to avoid unnecessary complexity, don't *over-engineer* your code. A simple, small, and easy-to understand code base is easier to maintain and scale.
 
-- It's free
-- It's easy and fast to start
-- It's totally integrated with GitHub
-- Works perfectly with small and static applications
-- It has integration with a lot of tools
+- **YAGNI:** You Aren't Gonna Need It. Don't add anything you don't strictly need. Try to avoid the temptation of adding the most trendy technologies just because you think they may be useful in the future. Add things gradually, when they are *really* needed.
 
-To learn more about GitHub Pages, read these guides:
-
-- [Getting started with GitHub Pages](https://guides.github.com/features/pages/).
-- [What is GitHub Pages?](https://pages.github.com/)
+- Read the article [Basic refactoring: don't repeat yourself](https://www.taniarascia.com/refactoring-dont-repeat-yourself/), in which the author explains the process of refactoring a piece of code following the DRY principle (KISS and YAGNI are also applicable in this example).
+- Read the article [KISS => Keep It Simple, Smart](https://medium.com/infancyit/kiss-keep-it-simple-smart-javascript-habits-b019ce14b5ec), which contains a list of techniques that could improve your code (remember, there is no *right way* to do it, every engineer may do it in a different way).
 
 ## Additional materials
 
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
-GitHub Pages can be set up easily, but if you want to find more advanced features, see the official [GitHub Pages documentation](https://docs.github.com/en/pages), where you will learn how to add custom domains, use themes, make a blog, etc.
+If you want to know more about clean code and best practices, read these classic books:
+
+- ["The pragmatic programmer: from journeyman to master"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), David Thomas & Andrew Hunt.
+- ["Clean code: a handbook of agile software craftsmanship"](https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html), Robert C. Martin.
 
 ------
 

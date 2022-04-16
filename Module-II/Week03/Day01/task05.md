@@ -1,53 +1,95 @@
-# Portfolio: application deploy
+# Is it DRY?
 
 ## Learning objectives
-- Use GitHub Pages to deploy web pages.
-- Demonstrate ability to ask clarifying questions about ambiguous requirements.
 
-### Estimated time: 1.5h
+- Assess what makes a piece of code DRY or not.
+
+### Estimated time: 0.25h
 
 ## Description
-For this milestone you will make your website available online.
 
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+## Exercise
 
-### General requirements
+When a software system starts to scale, you will inevitably find places where you need to do something very similar to something you've done in the past. Most of the time you want to reuse some of your old code for a similar project you may simply copy and paste and find that your code works without making any changes. But in the long term you'll have a lot of problems trying maintain the same code copied to multiple locations. You will easily forget all the places you need to update, which can lead to a higher likelihood of bugs in your code. Even in small applications you should try to DRY your code from the beginning, to keep it clean, beautiful, understandable and maintainable.
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct flow ([Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
+In this exercise you will assess a piece of code and you will try to make it DRY.
 
-### Project requirements
+*IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
 
+### Instructions
 
-_**IMPORTANT NOTE:** For each Microverse project, you need to create a separate pull request. [Read how to work with multiple pull requests in your one repository in the most efficient way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md)._
+- Check the following examples of code:
 
-- Deploy your website using GitHub Pages.
-- Check the online version of your portfolio and make sure that the page works properly.
-- Update the README of your repository to include a link to the online version.
-- _If by any chance you have deployed your app earlier, open an issue with a link to the online version of your app. Otherwise, submit a link to the PR with changes required for the deploy._
+Example 1:
 
+```javascript
+const pets = ['Cat', 'Dog', 'Bird', 'Fish', 'Frog', 'Hamster', 'Pig', 'Horse', 'Lion', 'Dragon'];
+// Print all pets
+console.log(pets[0]);
+console.log(pets[1]);
+console.log(pets[2]);
+console.log(pets[3]);
+...
+```
 
-### Need a big picture?
+```css
+.cat {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #FFF;
 
-Remind me about [the big picture of this project](./sneak_peek.md).
+}
+.dog {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #000;
+}
+.dragon {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #009933;
+}
+```
 
-## Work and submission mode
+Example 2:
 
-- You should submit this activity **individually.**
+```javascript
+const greet = (message, name) => {
+  console.log(`${message}, ${name}!`)
+}
 
-## Code review
+greet('Hello', 'John');
+greet('Hola', 'Antonio');
+greet('Ciao', 'Luigi')
+```
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+```css
+.greetings {
+  font-family: Arial, sans-serif;
+  font-size: 1.5rem;
+}
 
-## Submit your project
+.greetings.english {
+  background-color: #000;
+  color: #FFF;
+}
+.greetings.spanish {
+  background-color: #FFF;
+  color: #000;
+}
+```
 
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
+- Create a [gist](https://gist.github.com/) on GitHub.
+- Copy code from the "Example 1".
+- Answer the question: "Is it DRY?"
+  - If it is not DRY, show how you can make it DRY by adding your version of the code.
+  - If it is DRY, explain why it is DRY.
+- Repeat the process with example 2.
+- Create just one gist with two files for the two examples.
 
- 
-
+### Submit your exercise
+[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+Now go to your Student Dashboard and submit your exercise.
 
 ------
 

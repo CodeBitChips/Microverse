@@ -1,44 +1,27 @@
-# Floats and positioning elements
+
+# ES6 modules - warm-up
 
 ## Learning objectives
+- Use ES6 modules
 
-- Use industry-standard tools (floats) to place elements on the page.
+### Estimated time: 0.5h
 
-### Estimated time: 2h
+## Description
+In this lesson, you are asked to do some practical exercises. They will cover ES6 modules you learned in the previous lesson.
 
-## Floats
+### Why is it important?
+Good knowledge of ES6 syntax and the applicability of a given solution will arm you with the tools necessary for modern web development.
 
-HTML elements are usually blocks that stack one below another, so you will find a new block below the previous one, in the order you have them in the HTML file. `float` is a CSS property that allows you to "float" elements to the right or to the left of other elements in the HTML file. Something that you already know how to do with Flexbox, right?
+### Complete the tasks
+Follow the links below and complete all the tasks:
 
-### Why are floats important?
-Even though floats have decreased in usage with the addition of new techniques like Flexbox or CSS Grid, it's worth knowing how to use them. For example, when you have to float an image inside a block of text, the best tool to do it is still a `float`. 
-Also, there are plenty of CSS codebases that still use floats. When you need to work on existing code based on floats you should be able to do it.
+- [Create a module script](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script).
+- [Use export to share a code block](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block).
+- [Reuse JavaScript code using import](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import).
+- [Use * to import everything from a file](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file).
+- [Create an export fallback with export default](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default).
+- [Import a default export](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export).
 
-### Learn more about floats
-
-- Read this nice [guide about CSS floats](https://alistapart.com/article/css-floats-101/) by A List Apart
-
-## Position
-
-`position` is a CSS property that allows you to place elements on the page. Similar to `float`, many `position` use cases have been taken over by new methods of positioning HTML elements such as Flexbox.
-
-### Why is position important?
-
-Again, there are specific use cases that require you to use the `position` property, such as creating a header that stays at the top of the page by positioning an element `fixed` with the page set to scroll. Also, the `position` property is widely used in existing codebases, so it is important to understand how it works when modifying existing code.
-
-### Learn more about position
-
-- Read this nice [guide about CSS position](https://alistapart.com/article/css-positioning-101/) by A List Apart.
-
-## Challenge yourself
-
-*Use these questions to check what you learned during this lesson.*
-- [20 question quiz about floats and position](https://docs.google.com/forms/d/e/1FAIpQLSfpbzkXZymwals6acIdqrGpazaNU58XuoPcqRZxWRXykT80Eg/viewform)
-
-## Additional materials
-
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Practice with this [visual tutorial of positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/).
 
 ------
 

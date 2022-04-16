@@ -1,48 +1,78 @@
-# Working with a diverse team: Part 2
+# Morning Session managing stress through support networks
 
-## Learning objectives:
+## Learning objectives
 
-- Demonstrate ability to work successfully with diverse team members.
-- Explain some of the key factors needed to create a comfortable working environment for teammates.
-- Show familiarity with diversity and inclusion policy at Microverse and expectations for openness and respect.
+- Recognize the importance of building a support network within a remote learning setting and have tools to do so.
 
-### Estimated time: 0.5hr
+### Estimated time: 0.5 h
 
-## Description:
+## Description
 
-This lesson talks about cultural stereotypes and the effects that they may have at Microverse or later at the workplace.
+In this lesson, we will talk about the importance of having a support network to help relieve stress in your time as a remote student. You will learn skills you can apply here and in future remote jobs.
 
-### Why is this important?
+### Why is managing stress through support networks important?
 
-Stereotypes are harmful because it leads us to make conclusions about individuals that are often not true. In the workplace, this may lead to discrimination. At Microverse we have a lot of students from all over the world. Having so many differences between each other might lead to more stereotypes existing between us. Learning and being aware of cultural stereotypes will help us question and disregard them so that we can see the individual and their capabilities instead of the stereotype.
+Having a social support network has been proven to help relieve stress. The remote environment at Microverse and later in the workplace can make it more difficult to create a social network. That's why you must be proactive about creating a good support network and having people that you can rely on.
 
-### Cultural stereotypes
+Being able to share a difficulty or ask someone for help can help us overcome the challenge or make us more resilient to dealing with this stress. On the other hand, isolation can cause harm to our mental and physical health.
 
-In this section we talk more about what cultural stereotypes are and give some examples.
+### How to manage stress through support networks
+
+Below you will find more information about stress and using social connections to overcome stress.
 
 Guiding questions:
 
-- What are stereotypes?
-- Why are cultural stereotypes bad?
+- What are some of the benefits of social support?
+- What are some negative effects of isolation?
+- How can I increase my social support?
 
-Learn more about stereotypes in the links below.
+**Learn more about managing stress through social support:**
 
-- [Cultural Stereotypes](cultural-stereotypes.md)
-- [Effects of a Cultural Stereotype in the Workplace](https://smallbusiness.chron.com/effects-cultural-stereotype-workplace-19193.html)
+- [Social well being - Importance of social connections - Social life - Social interactions](https://www.youtube.com/watch?v=RijQpsWEdrE)
+- [Manage stress: Strengthen your support network](https://www.apa.org/topics/stress/manage-social-support)
 
-## Group Discussion
+### How to maintain and increase social connection
 
-During the final 10 minutes of your Morning Session, discuss the following questions with your team members:
+In the following link you will find some tips on how to nurture online contacts to turn them into friendships or more personal connections:
 
-- What stereotypes exist about your culture?
-- Have you ever been stereotyped? How did it make you feel?
+- [Easy ways to invest in friends online](easy-ways-to-invest-in-friends-online.md)
+
+Spend 10 minutes discussing the discussion questions below.
+
+- Do you have someone you can go to when you feel stressed?
+- Think back to a time where you were able to count on a friend in a difficult time. How did that make you feel?
+- How could you increase your network at Microverse and outside of Microverse?
+
+## Exercise
+
+### Instructions
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+1. Spend 10 minutes filling out the exercise individually.
+
+**Exercise template to copy:** [Managing stress through support networks](https://docs.google.com/document/d/1N0NA53gKSQOlF8aGwys6xDP6fys_eK2WbCJdrCON6Ag/edit?usp=sharing)
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+
+Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [The Challenges of Cultural Diversity](https://www.youtube.com/watch?v=7u_wjH3-Ge8)
-- [It's (past) time to appreciate cultural diversity | Hayley Yeates | TED Institute](https://www.youtube.com/watch?v=C2fyHNMOvjg)
+Below is a tool where you can find online events or events in your area. You can also create events:
+
+- [Meetup](https://www.meetup.com/)
+
+Here are more resources on managing stress through social support:
+
+- [Stress management: social support](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/social-support/art-20044445)
+- [5 tips to turn your online connections Into meaningful relationships](https://www.forbes.com/sites/shelcyvjoseph/2018/11/12/5-tips-to-turn-your-online-connections-into-meaningful-relationships/?sh=53fc3cc86442)
+- [Sansum Clinic | Stress Management Series | Episode # 9 Compassion and Purpose](https://www.youtube.com/watch?v=Hn-dl7iMQ8c)
+- [Stress and Your Health | Part 3: Coping with Stress | AXA Research Fund](https://www.youtube.com/watch?v=rWzDq2318g8)
 
 ------
 

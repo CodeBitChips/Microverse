@@ -1,41 +1,73 @@
-# Tools: Get Familiar with Slack
+# Awesome books: plain JavaScript with objects
 
-### Learning objectives
+## Learning objectives
 
-- Demonstrates ability to navigate and communicate using Slack.
+- Understand different ways to create objects in JavaScript.
+- Create and access properties and methods of JavaScript objects.
 
-### Estimated time: 0.25h
+### Estimated time: 3h
 
 ## Description
 
-This lesson helps you get familiar with using Slack to reach out to other Micronauts.
+In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. You will also need to dynamically modify the DOM and add basic events.
 
-### Why is getting familiar with Slack important?
+*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
-Slack will be the main tool used to communicate with your peers at Microverse. Slack allows you to be part of and interact with a community via the #full-time Channel and your group chat with your standup team, among others. Slack also allows you to get help when you have any (non-technical) questions. Microverse staff will post announcements on Slack, but any other communication with Microverse staff will be on Zendesk, not in Slack. 
+### General requirements
 
-### Getting to know your peers
+- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
+- Make sure that you used correct [Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
-In the following article you will learn more about who you will reach out to and the different channels you can use on Slack:
+### JavaScript requirements
 
-- [Using Slack to get to know your peers](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/using-slack-to-get-to-know-your-peers.md)
+- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
 
-### Professionalism in Slack
+### Project requirements
 
-Now that you are in Slack and familiar with the channels at Microverse, it's important you learn about professional behavior on Slack.
+- Implement only a basic UI with plain HTML:
+<p align="center">
+  <img src="./images/awesome_books_basic_ui.png" alt="Basic UI"  width="300px"/>
+</p>
 
-**Learn more about expectations for professionalism on Slack:**
+- Create a collection that keeps a list of books (hint: you can use an array of objects for that).
+- Create a function to add a new book to the collection, with title and author.
+- Create a function to remove a book from the collection (hint: you can use the [array filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method).
+- Display all books saved in the collection in the top part of the page.
+- Make sure that when a user clicks the "Add" button:
+  - A new book is added to the collection.
+  - The new book is displayed in the page.
+- Make sure that when a user clicks the "Remove" button:
+  - The correct book is removed from the collection.
+  - The correct book dissapears from the page.
+- Make sure that data is preserved in the browser's memory by using [localStorage](https://github.com/microverseinc/curriculum-html-css/blob/main/local_storage.md).
+- To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log). **Remember to remove debugging code before pushing your code to the remote repository.**
+- Don't use any library or framework, use only plain JavaScript.
 
-- [Professionalism guidelines in Slack](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/professionalism-guidelines-in-slack.md)
-- [Student Handbook](https://www.notion.so/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - see especially the guidelines for [Professional communication](https://www.notion.so/Professional-communication-756c98d9527245e58b3c2bbd86cbb1ca)
 
-### Additional materials
+**TIP:** If you separated the code in multiple files and you you have the following issues with the linter: complaining about having multiple classes at the same file, or an unused variables, disable the linter check for that rule in the file with a `/* eslint-disable rule-you-want-to-disable */`
+.
 
-*These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
+Check the [ESLint documentation](https://eslint.org/docs/2.13.1/user-guide/configuring#disabling-rules-with-inline-comments) for more details on how.
 
-- [Collaborate with kindness: Consider these etiquette tips in Slack](https://slack.com/intl/en-es/blog/collaboration/etiquette-tips-in-slack)
-- [Student guidelines for communicating in online, professional contexts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/learning-activities/student-guidelines-communicating-online-professional)
+### Need a big picture?
 
+Remind me about the [big picture of this project.](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md)
+
+## Work and submission mode
+
+- You should implement the above requirements only in **one repository** in your pair-programming group.
+- You should ask for a review and submit this activity **on behalf of your pair-programming group.**
+
+### Code review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+
+## Submit your project
+
+After the final approval from a code reviewer, you need to submit your project.
+[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+Now go to your Student Dashboard and submit your project.
 
 ------
 

@@ -1,29 +1,68 @@
-# Time booked for implementing suggested project changes
+# Add a new project to your portfolio
 
-Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
+## Learning objectives
 
-Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
+- Add a new project to your portfolio.
 
-**Therefore, you can see time booked for the project changes in the Student Dashboard.**
+### **Estimated time**: 1hr
 
-### How should you use the time booked for making project changes?
+## Description
 
-We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
+In this exercise, you will learn how to add a new project to your portfolio by gathering screenshots of your projects and including links to your GitHub Source Code and to Live Demos.  
 
-We recommend that you follow these steps:
-- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
-- After that you can begin to complete the other activities planned for that day.
-- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
-- Finally, you can complete the remainder of the time booked for the project changes at the end of the day if a third code review was necessary.
+### Why is adding a new project to your portfolio important?
 
-### What should you do if you need more time for project changes than the amount booked for that?
+Portfolios are the easiest way of showing what you’re truly capable of as a developer, and are a quick and simple way for recruiters and hiring managers to get an idea of what you can bring to their teams. Learning happens on each project and the new projects that you take up often involve more complex skills than the previous ones. Therefore it's imperative to keep the portfolio updated with the information about most recent projects. 
 
-The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
-We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
+This not only helps in getting better job opportunities or projects but also becomes a way to track how you are growing in your skills with each project. 
 
-### What should you do about time booked for the project changes in the Student Dashboard?
 
-There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
+## Important note for transition students
+You might not have a portfolio yet at this stage of the Curriculum so, in the exercise below, you will simply be required to pin your new project in your GitHub profile and to submit a link to your profile. Later on, when you get to the Job Searching part of the Curriculum, you will create your portfolio as a side project. For now, jump straight to the Exercise section of this lesson and complete the exercise.
+
+## Important note for non-transition students
+At this stage, you might already have a portfolio ready. It is important to make it look presentable to employers and recruiters. Read through all the sections below and then complete the exercise at the bottom of this page.
+
+
+### Gather screenshots of your projects
+
+**Guiding questions:**
+
+- Think about important aspects
+
+This is the first step in adding a new project to your portfolio. 
+
+There are a few **DOs and DON'Ts** to keep in mind when choosing screenshots.
+
+[DOs and DON'Ts for choosing screenshots](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/dos-and-donts-for-choosing-screenshots.md)
+
+### Include Links to Your GitHub Source Code and to Live Demos
+
+This step is incredibly important, and it’s also a step that many people miss. An attractive screenshot can tell a prospective employer that you’re a good designer, and that you have a good understanding of UI/UX. However, that employer will have **no idea** whether you’re able to write good code unless they can view or test that code themselves.
+
+There are a few pointers to keep in mind when including links to GitHub Source Code and to Live Demos.
+
+[Pointers for including links to the GitHub source code and to live demos](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/pointers-for-including-links-to-the-github-source-code-and-to-live-demos.md)
+
+## Exercise
+
+### Instructions
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+**Spend 45 minutes working on this exercise.**
+
+1. Open your copy of the exercise template below.
+2. Complete all the sections that apply to you.
+
+**Exercise template to copy:** [Add a new project to your portfolio](https://docs.google.com/document/d/1EAFpW4nQAmn259YWlr1ew0-bV8wz3zbcl_u5VFd3oHE/edit#)
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit your exercise.
+
 
 ------
 

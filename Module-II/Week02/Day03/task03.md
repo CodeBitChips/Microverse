@@ -1,37 +1,53 @@
-
-# Responsive web design (RWD) with media queries
+# What does your social media presence say about you (and what might you want to change)?
 
 ## Learning objectives
-- Understand how to create UIs adaptable to different screen sizes using media queries.
-- Explain why RWD is important when building a UI.
 
-### Estimated time: 2h
+- Show a professional online presence on social media.
+
+### Estimated time: 0.5h
 
 ## Description
-Every website can be opened on different devices and those devices have different screen sizes. 
-With responsive web design (RWD) you can create one design and it will automatically adapt itself based on the screen size of the device that you are using to load the webpage.
 
-### Why is it important?
+In this lesson, you will learn what your social media presence says about you, why it is important, and the things you can change to improve your profile.
 
-Nowadays business owners want to reach out to users on different devices - phones, tablets, and computers. You as a web developer should be ready to fulfill those requests. Building and maintaining a separate website for each screen size is not the best solution in general.
+### Why is your social media presence important?
 
-### Understand the theory behind RWD
+The world is now more connected than ever through the internet. A simple search for someone on the internet can give you a glimpse of their professional and personal lives through Facebook, Instagram, Snapchat, LinkedIn, and more platforms. Hiring managers can search these profiles and create a first impression of you in their minds.
 
-- Read [Best practices of responsive web design](https://medium.com/level-up-web/best-practices-of-responsive-web-design-6da8578f65c4).
-- Read [Responsive web design](https://alistapart.com/article/responsive-web-design/).
-- Read [How to write mobile-first CSS](https://zellwk.com/blog/how-to-write-mobile-first-css/).
+A public social media presence that shows images of parties and fun might not resonate well with recruiters who may consider you as not being serious. On the other hand, a public social media presence that shows professionalism, interest in the tech industry, teamwork, and communication could be very interesting to recruiters and increase their confidence in hiring you. It is thus important to take care of your social media image and presence.
 
-### Look at a real-life example
+### The importance of maintaining professional social media accounts
 
-Look at the [examples of websites that uses RWD](https://www.invisionapp.com/inside-design/examples-responsive-web-design).
+**Guiding questions:**
 
+*Think about this question as you learn the importance of maintaining professional social media accounts.*
 
-### Play with media queries
+- Imagine you are a recruiter and you need to evaluate 3 candidates' social media profiles below before inviting one of them for an interview. Which of these candidates would you choose?
+  - Candidate A has several videos and pictures on their Instagram of them partying with friends and drinking alcohol.
+  - Candidate B uses inappropriate language, swears, and makes inappropriate comments to people on his LinkedIn.
+  - Candidate C posts articles about their recent coding challenge and what they learned from it, shares demos of tech projects they have built, and writes motivating comments to help other developers.
 
-By using "Try it yourself" options below each example in [this article about RWD and media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) you can test media queries in action.
+**Learn more about the importance of maintaining professional social media accounts:**
 
-## Challenge yourself
-Check your understanding of this lesson. [Here](https://docs.google.com/forms/d/e/1FAIpQLSdpB_qlG0Uk6gMYH-JkPnI9FpK-I9E0ubfIOS5DaetuXfgXLg/viewform?usp=sf_link) you can find an optional quiz that will help you to test yourself.
+- [The importance of maintaining professional social media accounts](https://www.wayup.com/guide/community/importance-maintaining-professional-social-media-accounts/)
+- [What your social media profile says about you](https://www.infomart-usa.com/blog/social-media-profile-says/)
+
+### How to make your social media presence professional
+
+In this part of the lesson, you will learn how to make your social media presence more professional.
+
+**Learn more about the improving your social media presence:**
+
+- [11 tips for a more professional social media presence](https://www.govloop.com/community/blog/11-tips-professional-social-media-presence/)
+- [6 ways to make your social media look professional to employers](https://www.coburgbanks.co.uk/blog/candidate-tips/make-your-social-media-look-professional/)
+
+### How to protect your privacy on social media
+
+A very effective way to make sure you are in control of your social media presence is to set your privacy settings. That way, you decide what people see and can present yourself online in the best way possible to recruiters.
+
+**Learn more about how to set up your privacy settings and protect your privacy on social media:**
+
+- [How to set your social media to control who sees what](https://www.wired.com/story/lock-down-social-media-privacy-security-facebook-twitter/)
 
 ------
 

@@ -1,48 +1,31 @@
-# Linters
+# Time booked for implementing suggested project changes
 
-## Learning objectives
-- Understand the importance of code standards and linters.
+Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
 
-### Estimated time: 0.5h
+Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
 
-## Description
+**Therefore, you can see time booked for the project changes in the Student Dashboard.**
 
-A linter is a tool that analyzes your *source code* to flag programming errors, bugs, stylistic errors, and suspicious constructs (source: [Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))).
+### How should you use the time booked for making project changes?
 
-You can find linters for most programming languages, such as [Rubocop](https://www.rubocop.org/) for Ruby or [ESLint](https://eslint.org/) for JavaScript.
+We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
 
-## Why are linters important?
+We recommend that you follow these steps:
+- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
+- After that you can begin to complete the other activities planned for that day.
+- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
+- If a third code review was necessary, you can complete the remainder of the time booked for the project changes at the end of the day.
+- Occasionally, changes might be requested in your third review. To implement them, you can use an extra code review. 
+- Always plan your work carefully and mind the deadlines: they apply even though you use extra code reviews! 
 
-There are a few reasons for using linters:
+### What should you do if you need more time for project changes than the amount booked for that?
 
-1. Catching syntax errors is more efficient. There is no need to debug simple mistakes like typos - the linter does it for you.
-2. The entire codebase looks like it was written by one person.
-3. Programmers can focus on solving problems instead of cleaning up the code.
+The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
+We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
 
-As programmers, you will be part of a team. Agreeing on a set of [coding standards](https://en.wikipedia.org/wiki/Extreme_programming_practices#Coding_standard) is key to create quality code as a team, and linters will facilitate this task.
+### What should you do about time booked for the project changes in the Student Dashboard?
 
-
-## How can I use linters in my code base?
-
-There are many ways you can integrate a linter in your programming workflow:
-
-- text editor plugins
-- GitHub Actions
-- GitHub apps
-
-
-At Microverse, you are going to use linters in every single project that you develop. Please learn more about linters and how to include them on your repository [in our linters documentation](https://github.com/microverseinc/linters-config).
-
-## Guidelines for using linters at Microverse
-
-- You **should not change the `config` files** copied from the `linters-config` repo. They represent configuration shared between all students at Microverse.
-- **Do not overuse linter disable comments**, i.e. `eslint-ignore <rule-to-be-ignored>` or `# rubocop:disable <rule-to-be-disabled>`. Disabling rules multiple times in the same file, or disabling easy to fix rules such as `no-console`, `no-alert`, `Layout/LineLength`, `Style/GuardClause`, etc, should be avoided. Linter rules are meant to catch bad code and enforce best practices.
-- If you request a review for a project with linter errors, **your request will be invalidated.**
-
-In each Microverse project you have a reminder about linters and a link to the correct config files.
-
-## Additional Materials
-- Here is an optional guide [explaining linters in greater detail](https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/) by Testim if you wouuld like to learn more about linters.
+There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
 
 ------
 

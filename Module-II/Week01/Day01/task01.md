@@ -1,38 +1,48 @@
-# Welcome to your first day at Microverse
+# Refresher on leading group meetings well
 
-### Learning objectives
+## Learning objectives
 
-- See Microverse as a professional environment and understand the necessity to develop the skills needed to be an international professional.
-- Understand that Microverse's program has a core, direct goal of getting you to employment.
+- Can lead daily meetings with standup team independently when it's your turn.
 
-### Estimated time: 0.25h
+### **Estimated time**: 0.5
 
-## Description
+## Leading group meetings well
 
-This lesson will help you understand what to expect during your first week at Microverse.
+This lesson is a refresher on how to lead group meetings well.
 
 ### Why is this important?
 
-This lesson will help you understand what you will learn during the first day and first week at Microverse. There's a lot that's new in the first week, and this lesson will be a first step in getting familiar with what's most important.
+As we do things repeatedly we sometimes fall into the trap of setting bad habits by accident. To avoid that you should make time to reflect on these habits. This lesson serves the purpose of reflecting to make sure that you are having the right habits to set you up for success while leading standup meetings. 
 
-### Welcome to the Microverse Software Development Program
+These habits such as time-keeping, leading discussions, and starting and ending the meeting are very important. They are habits that traditional universities often don't teach and that most junior employees learn while they are on the job. Coming into your job and knowing how to efficiently lead a meeting by sticking to time, being able to have productive discussions that all team members participate in is a great way to impress your future manager. 
 
-Welcome to Microverse! We are so happy to be able to welcome you to the program. You have worked really hard to get here and you should feel really proud that you are part of the 1% of applicants that make it this far!
+### Reflection on leading group meetings
 
-Our founder and CEO Ariel Camus would like to personally welcome you to the program. Please watch his video below.
+**Guiding questions:**
 
-- [A welcome from our CEO, Ariel Camus](https://www.loom.com/share/c4eb551b5cc348d3b03cddbba5a5a41f)
+- How has leading the standup meetings been going for you?
+- Are there any factors making it challenging to lead the meeting?
 
-### What to expect during your first week at Microverse
+**Learn more about:**
 
-In the following link we will talk a little bit more about what you can expect during the first week at Microverse:
+- [Refresher on leading the standup meeting](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/what-is-the-role-of-the-leader-in-this-meeting.md)
+- [Reflecting on leading standup meetings and tips on how to do it right](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/reflecting-on-leading-standup-meetings-and-tips-on-how-to-do-it-better.md)
 
-- [About your first week](first-week-at-microverse.md)
+## Exercise
 
-### Additional Links
-- [Here is the Microverse Student Handbook](https://www.notion.so/microverse/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - You can refer to this as you go through the first week and learn how things work at Microverse.
-- [Here is the link to the recording of our Welcome call](https://drive.google.com/file/d/1htTA7Ke5QyY9PTaaO-Mpqhk2sC2OlBNi/view?usp=sharing) - Did you miss our Welcome Call on Day 1? Do you feel lost and like you don't know what you're doing on Day 1? Please watch the recording.
+### Instructions
 
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+1. Open the template and follow the directions for the exercise.
+
+**Exercise template to copy:** [Refresher on leading group meetings well](https://docs.google.com/document/d/16_7NevVpQHSt2-QP9isSIhxgPys4redA4u7F5v4oMqg/edit#heading=h.yegj1fdxqsoo)
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit your exercise.
 
 
 ------

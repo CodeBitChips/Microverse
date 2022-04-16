@@ -1,76 +1,49 @@
-# Meet your first Learning Partner
+# Working with objects
 
 ## Learning objectives
+- Understand different ways to create objects in JavaScript.
+- Create and access properties and methods of JavaScript objects.
 
-- Recognize the importance of investing in good working relationships with teammates.
-- Understand how to make working agreements with new teammates.
-
-### **Estimated time**: .5h
+### Estimated time: 1.5h
 
 ## Description
 
-The goal of this activity is to get to know your learning partner(s) and set working agreements with them. Connect with your partner(s) in a Zoom call through your student dashboard before starting this activity.
+In this lesson, you will learn how to use JavaScript objects, how to create methods and properties, and how to access them.
 
-### How to connect with your first learning partner(s)
+### Why are JavaScript objects important?
 
-You should have already received a message introducing you to your partner(s). Earlier today, you connected your Zoom account to Microverse, so you should now see a link to your partner(s) in your Student Dashboard. Send your partner(s) a message on Slack if they aren't in the Zoom call when you join. If you can't find your partner, contact Student Success before moving forward.
+In JavaScript, almost everything is an object! They are one of the data structures implemented natively by the language and they are fundamental to JavaScript programming. It is necessary to understand the different ways in which JavaScript objects work in order to write good JavaScript.
 
-### Why should you spend time getting to know your learning partner(s)?
+### Object creation
 
-You're in a remote program that is a community. Your first learning partner(s) may later become your pair programming partners or be in your standup team. Each time you work with a new person at Microverse, you have a chance to build your network. More importantly, teamwork happens with people and getting to know one another as human beings is the foundation of working together successfully.
+There are several ways to create objects in JavaScript, each one with small differences not only in syntax but also in the way you set the prototype and assign its properties. Take a look at the detailed documentation of each way (remember that your goal is to observe and understand the differences, not to read entire documentation):
 
-### Get to know each other
+- [Object *literal* notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) (also known as *initializer* notation). This topic was already introduced in the [previous module](https://github.com/microverseinc/curriculum-html-css/blob/main/introduction_to_js_objects.md). 
+- [Object() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object).
+- [Object.prototype.constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor).
+- [Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create).
+- [Object.assign()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign).
 
-Relationships begin with curiosity about other people. They start with sharing a little about yourself and showing interest in your partner(s).
+### Object prototypes
 
-Use the following questions to spend 10 minutes talking with your new partners and getting to know each other.
+JavaScript is a multi-paradigm language and implements inheritance in its own way. Unlike other object-oriented programming (OOP) languages based on classes, like Java or C,  JavaScript uses **prototypal inheritance**.
+ - Read [this article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes) to learn more about the object prototype.
 
-- [Questions to get to know your first learning partner(s)](questions-to-get-to-know-your-first-learning-partner.md)
+### Object methods
 
-### Learn about working agreements
+Objects, as you already know, are collections of key/value pairs. The properties (keys), can have any value, including functions. When the properties contain function definitions they are called **methods**.
+- Read about [defining methods in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#defining_methods).
 
-In your first week, you'll be meeting twice daily with your learning partner(s). You won't be collaborating on projects, but you will be joining calls to check in with each other. Setting working agreements with teammates you'll be interacting with every day will help you stay coordinated and work more smoothly together this week.
+## Challenge yourself
 
-Guiding questions:
+You may have noticed that the `Object() constructor` and the `Object.prototype.constructor` ways of creating an object look similar. Take a deeper look and find the difference between the two of them. Hint: one of them seems like a function. As a matter of fact, you can use your own functions to create objects.
 
-- What are working agreements?
-- Why is it useful for new teams to make working agreements?
-
-Watch the following video together to learn more about working agreements, and consider the guiding questions while you watch.
-
-- [Video: Working agreements in Agile teams](https://www.youtube.com/watch?v=0Lyy4CBOO3g)
-
-### Working agreements at Microverse
-
-Now, let's apply this to Microverse. Together with your learning partner(s), read the following article about working agreements in our program. As you read, discuss how you would answer the questions. Spend 10 minutes on this part of the activity.
-
-- [What are working agreements for learning partners at Microverse?](what-are-working-agreements-for-learning-partners-at-microverse.md)
-
-## Exercise
-
-### Instructions
-
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
-
-1. Open the exercise at the same time as your partner(s)
-2. Discuss your agreements
-3. Write down what you agree to in your own template
-
-**Exercise template to copy:** [First working agreements](https://docs.google.com/document/d/1eZuxJUVKFns-R2TH58LZGIW5Ashq80HKvyiJINtMngw/edit?usp=sharing)
-
-### Submit your exercise
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
-
-Now go to your Student Dashboard and submit your exercise.
+[Click here](lesson_js_objects_challenge.md) to check your answers to these questions.
 
 ## Additional materials
-
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-
-- [Team working agreements - What? Why? How?](https://medium.com/@angelydaz/team-working-agreements-what-why-how-28b2970b71ca)
-- [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/knowledge/articles/360050419034/en-us?brand_id=360002597114&return_to=%2Fhc%2Fen-us%2Farticles%2F360050419034)
-
+- Read the article [How to create objects in JavaScript](https://www.freecodecamp.org/news/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8/) that summarizes the different ways of creating objects. Note that in this lesson we are not talking about *classes* - that's a topic that will be discussed in its own lesson.
+- Learn more about [objects and object constructors](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript/lessons/objects-and-object-constructors) in this article from The Odin Project.
 
 ------
 

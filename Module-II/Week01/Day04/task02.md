@@ -14,7 +14,9 @@ We recommend that you follow these steps:
 - You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
 - After that you can begin to complete the other activities planned for that day.
 - After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
-- Finally, you can complete the remainder of the time booked for the project changes at the end of the day if a third code review was necessary.
+- If a third code review was necessary, you can complete the remainder of the time booked for the project changes at the end of the day.
+- Occasionally, changes might be requested in your third review. To implement them, you can use an extra code review. 
+- Always plan your work carefully and mind the deadlines: they apply even though you use extra code reviews! 
 
 ### What should you do if you need more time for project changes than the amount booked for that?
 

@@ -1,44 +1,70 @@
-# Review one of your past projects
+
+# Awesome books: with ES6
 
 ## Learning objectives
 
-- Apply best practices in HTML code.
-- Use semantic HTML tags.
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Perform a code review for yourself on a past project.
+- Use ES6 modules to write modular JavaScript.
+- Learn how to use proper ES6 syntax.
+- Understand improvements that ES6 brings to JavaScript.
+- Use npm as software packages system.
 
-
-### Estimated time: 0.5h
+### Estimated time: 4.5h
 
 ## Description
 
-In the previous lessons, you got an introduction to the code review process and you upgraded your HTML and CSS skills. That means that you are ready to perform a code review on your code!
+In this project, you will restructure your _Awesome books_ app code. The goal is to make it more organized by using modules.
+You will also practice the ES6 syntax that you have learned.
+
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
+### General requirements
+
+- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
+- Make sure that you used correct [GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
+
+### HTML/CSS requirements
+
+- Follow our list of the [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+
+### JavaScript requirements
+
+- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
+
 ### Project requirements
 
-- Create a new empty repo.
-- Copy your code from the project that you completed during the Admissions Trial:
-            - *If you do not have the code from the Admissions Trial ask someone from your Standup Team to share their code with you. In that case, remember to add an attribution note and acknowledgment in your README file.*
-- Create a new branch for your copied code.
-- Open a pull request. 
-- Play the role of the Code Reviewer:
-    - Follow the list from the article ["How to give a code review?"](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/give_code_review_basics.md).
-    - Check if you have used [semantic HTML tags](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md#:~:text=Use%20the%20appropriate%20tags%20for%20each%20element%20(e.g.%2C%20links%2C%20titles%2C%20etc.)%20and%20use%20HTML5%20semantic%20tags%20(e.g.%2C%20header%2C%20nav)%20over%20divs.).
-    - Check if you applied [HTML & CSS best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-- Add as many comments as possible in the given time and finish your review. Remember to add a minimum of 2 comments - you will definitely find something that could have been done better!
-- Copy a link to the pull request and ask for a code review in your Student Dashboard as usual. (The only difference will be that the Code Reviewer won't check your code but the review you performed - isn't it a code review inception? ;))
+- Setup your project:
+  - Create a new directory and initialize it with git.
+  - Use `npm init -y` command to create package.json file.
+  - Create the entry point for your JavaScript code called `index.js`
+  - Create `index.css` file for your styles.
+  - Create the main `index.html` file. Link your `index.js` and `index.css` files there.
+  - Create a directory called `modules`.
+- Re-create your _Awesome books_ app following the rules:
+  - Use ES6 syntax.
+  - Divide your code into modules. Save each module in a separate file in the `modules` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
+  - Keep all funcionalities of the app without errors.
+  - Refactor your methods and functions to arrow functions.
+  - Use let and const in a correct way.
+
+ 
+- Display the current date below the navigation bar. 
+  - For this requirement you should use a library [Luxon](https://moment.github.io/luxon/#/install?id=es6)
+  - Download the script and save it to your project. 
+  - Import it as a module.
+  - See the article [Get the current date and time](https://moment.github.io/luxon/#/tour?id=get-the-current-date-and-time). Your task here is to use a new tool effectively with little externally curated support. Exactly as you will do in your future job.
 
 
 ## Work and submission mode
 
 - You should submit this activity **individually.**
 
+
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+
 
 ## Submit your project
 

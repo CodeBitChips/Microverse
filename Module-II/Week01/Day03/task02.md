@@ -1,65 +1,31 @@
-# Getting confident learning independently
+# Time booked for implementing suggested project changes
 
-## Learning objectives:
+Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
 
-- Demonstrate the ability to learn in a self-directed way.
+Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
 
-### **Estimated time**: 0.5hr
+**Therefore, you can see time booked for the project changes in the Student Dashboard.**
 
-## Introduction
+### How should you use the time booked for making project changes?
 
-In this exercise, you'll learn about different ways people learn and techniques you can use to support your own independent learning. 
+We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
 
-### Why is this important?
+We recommend that you follow these steps:
+- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
+- After that you can begin to complete the other activities planned for that day.
+- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
+- If a third code review was necessary, you can complete the remainder of the time booked for the project changes at the end of the day.
+- Occasionally, changes might be requested in your third review. To implement them, you can use an extra code review. 
+- Always plan your work carefully and mind the deadlines: they apply even though you use extra code reviews! 
 
-When we learn in classrooms, teachers not only provide subject matter information but they also adapt learning experiences to support the ways that different students learn. When learning independently, we need to identify our own learning styles and find ways to support our own learning.
+### What should you do if you need more time for project changes than the amount booked for that?
 
-### Learning styles
+The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
+We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
 
-**Guiding questions:**
+### What should you do about time booked for the project changes in the Student Dashboard?
 
-- What are the different ways that information can be presented or understood?
-- What is your own learning style (i.e. how do you learn best)?
-- What are some methods that can help support your own learning style?
-
-**Learn more about learning styles:**
-
-There are 4 keys ways that people prefer to learn: visually (seeing); auditorily (hearing), reading/writing, and kinesthetically (doing). Some people use a combination of these styles. Review the article and video below to learn more about different learning styles.
-
-- [4 different learning styles you should know: The VARK model](https://kueducation.es501.com/community/4-different-learning-styles-to-know)
-- [Discover your learning style](https://www.youtube.com/watch?v=_IopcOwfsoU)
-
-**Identifying your own learning style**
-
-Now that you know that there are different learning styles, you can start to identify your own preferred style. Part of a growth mindset is recognizing that you may need to find a different way of interacting with certain information for you to fully understand and apply it. This can help you determine the types of tools and methods you may need to use when learning independently.  
-
-## Exercise
-
-### Instructions
-
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
-
-**Spend 15 minutes working on this exercise.**
-
-1. Answer the questions in this 20-question [Learning style assessment tool](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml).
-2. Make a screenshot of your results, as you will use them in the exercise template.
-3. Complete the exercise template.
-
-**Exercise template to copy:** [Getting confident learning independently](https://docs.google.com/document/d/1e1DSziyRpjLrmOyUS5gc8IbcmhGiBI7K0wJSJtMymT8/edit#)
-
-### Submit your exercise
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
-
-Now go to your Student Dashboard and submit your exercise.
-
-## Additional materials
-
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-
-- [You learn one of these 5 ways](https://www.inc.com/damon-brown/you-learn-1-of-these-5-ways-guaranteed-infographic.html)
-- [How to accommodate different learning styles](https://www.umassd.edu/dss/resources/faculty--staff/how-to-teach-and-accommodate/how-to-accommodate-different-learning-styles/)
-
+There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
 
 ------
 

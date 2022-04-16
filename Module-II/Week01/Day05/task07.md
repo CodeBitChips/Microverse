@@ -1,10 +1,7 @@
-# Min stack: challenge
+# Queues
 
 ## Learning objectives
 
-- Understand stacks.
-- Solve coding challenge based on stacks.
-- Understand queues.
 - Solve coding challenge based on queue.
 
 ### Estimated time: 1.5h
@@ -15,7 +12,10 @@
 
 *Check out this FAQ if you need a refresher on [how to use GitHub Classroom](https://github.com/microverseinc/curriculum-computer-science-fundamentals/blob/main/trivial-interview-questions/articles/how_to_use_github_classroom.md).*
 
-- Accept the [Min stack](https://classroom.github.com/a/glRx6775) assignment.
+- As this challenge should be solved by doing a pair-programming, first decide who will be the driver and who will be the navigator:
+    - You won't switch roles during the challenge as you cannot invite collaborators to the private repo.
+    - Make sure that you and your coding partner(s) experience both roles (the driver and the navigator) in a given week. _For example: if you were the navigator while solving the challenge yesterday, make sure that today you are the driver._
+- The driver shares their screen and accepts the [Queue](https://classroom.github.com/a/QBHu02ej) assignment.
 - Check the instructions in the assignment README.
 - Try pseudocoding first.
 - Feel free to use the video from the previous lesson.

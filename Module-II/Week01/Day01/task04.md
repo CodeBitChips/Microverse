@@ -1,42 +1,50 @@
-# Tools: Set up your Google Drive for exercise submissions
+# Sneak peek: Awesome books
 
 ## Learning objectives
+- Understand how to use medium-fidelity wireframes to create a UI.
 
-- Know how to use Google Drive to keep your work organized.
+### Estimated time: 0.5h
 
-### Estimated time: 0.25h
+*IMPORTANT NOTE: Remember to start each week with setting working agreements with your partner to improve your collaboration and to avoid conflict. [You can find the lesson here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/working-agreements-for-successful-pair-programming.md). Bookmark it so you can use it at the start of each week. If you are experiencing difficulties with your partner, reach out to Student Success right away so we can help you. It's important that you have a good collaboration that results in learning. We always try to speak to all parties involved to resolve the conflict. In some cases, we will re-pair you with a new student (this is only possible in the beginning of the week).* 
 
 ## Description
 
-This lesson will explain how to store your exercises on your Drive in an organized way.
+"Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
+By building this application, you will learn how to manage data using JavaScript. Thanks to that your website will be more interactive.
+You will also use a medium-fidelity wireframe to build the UI.
 
-### Why is setting up your Drive for exercise submissions important?
+### What is a medium-fidelity wireframe?
 
-The exercises you submit help you build skills that you will use later in the program. You should be able to access your previous exercises at any time. Therefore you should have an organized folder so you can easily access the information. You will be building on these skills as you move through the Program so you should be able to easily go back to your exercises to review them.
+Medium-fidelity wireframes present how your website's elements should be arranged, but they skip detailed information about aesthetics (e.g., colors, images).
+They can assist with communicating to teams how aesthetic features can support essential functionalities. Please read [Low Fidelity Wireframes vs High Fidelity Wireframes](https://mentormate.com/blog/low-fidelity-wireframes-vs-high-fidelity-wireframes/) to fully understand the difference between low-, medium-, and high-fidelity wireframes.
 
-Having good systems of personal organization will enable you to be more effective in your role as a software engineer and impress your coworkers, you will have the information you need accessible, and finally having an organized workspace and folders will bring more mental clarity. If you're generally not an organized person it can be very helpful to have monthly audits of your folders and machine to reorganize yourself.
+### How to build the "Awesome books" website
 
-### Setting up your Drive in the correct way
+You will start by building the core functionalities and ignoring how your website looks. At the very beginning your website will look similar to the UI below. Note that it is plain HTML with no styling, but it will allow you to add and remove books from the list!
 
-Below you will find a Loom video that explains how to access your Drive on your Gmail account and how to create folders:
+<p align="center">
+  <img src="./images/awesome_books_basic_ui.png" alt="Basic UI" width="300px" />
+</p>
 
-- [Accessing your Drive and creating folders for your exercise submissions](https://www.loom.com/share/cb546f87886e4cb1bedc37bc06a758db)
+Once you have the code working, you will play with refactoring it. In this step  you will also need to adhere to the layout presented in the wireframe, but you will choose your application's styling. So your initial ugly HTML will turn into something similar to this:
 
-## Exercise
+<p align="center">
+  <img src="./images/awesome_books_core_elements.png" alt="Core elements" width="400px"  />
+</p>
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+In the last step, you will build a complete website with working navigation. When a user clicks on a link in the navigation bar, the content in the main section of the website changes (URL stays the same, though.) Again styling is your choice, but it is essential to adhere to the layout presented in the wireframe. Your end result should look similar to this:
 
-**Exercise template to copy**: [Your first exercise](https://docs.google.com/document/d/1WN2NidXEgPCGo4PURkavpic-4dQH1mfdVtjx4W8AI5M/edit?usp=sharing)
+<p align="center">
+  <img src="./images/awesome_books_full_website.png" alt="Full website" />
+</p>
 
-### Submit your exercise
+### Projects list
 
-[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+You will be building your "Awesome books" website for the whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the project requirements in the upcoming program activities. In all of the projects, you will be working collaboratively by using pair-programming.
 
-Please submit a URL to your first doc with the text "My first exercise". The doc should have the correct title based on the information from this lesson. The doc should be stored in the correct place.
-
-Now go to your Student Dashboard and submit your exercise.
-
-
+- Project 1: Manage books collection (plain JS with objects).
+- Project 2: Manage books collection (plain JS with classes) and add basic CSS.
+- Project 3: Create a complete website with navigation.
 
 ------
 

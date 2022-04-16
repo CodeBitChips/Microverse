@@ -1,77 +1,91 @@
-# Portfolio: add a contact form and finish the mobile version
+# Set up project with webpack
 
 ## Learning objectives
+- Use webpack to bundle JavaScript.
 
-- Create forms with HTML5 validations.
-- Understand the importance of UX.
-- Understand how to parse a Figma design to create a UI.
+### Estimated time: 1.5h
 
-### Estimated time: 4.5h
+## Exercise
 
-## Description
+In this exercise you will build a simple yet powerful webpack boilerplate, which you can later use as a starting point in your projects. You will be working with the webpack official guides, which you know already from the previous lesson.
 
-For the third milestone of your portfolio website, you will:
+*IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
 
-- Add a contact form to your portfolio and the portfolio of your coding partner.
-- Make sure that you guide your users' experience in a way that helps them fill in the form without frustration.
+### Instructions
 
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+#### Initialize a new project and install webpack
 
-### General requirements
+- First set up a new GitHub repository for this exercise.
+- Follow the instructions from the [getting started](https://webpack.js.org/guides/getting-started/#basic-setup) guide to set up the basics. Implement all the steps from *Basic Setup* to *NPM Scripts*.
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
+#### Add HTML
+- You already know that all the distribution files will be placed in */dist* directory. You also know that you should not create files manually in the */dist* folder, as there's a risk they will be overwritten. Therefore, install the HtmlWebpackPlugin to automatically create the **index.html** file in the */dist* directory. 
+- Follow the instructions from the [setting up HtmlWebpackPlugin](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin) guide. Be extra careful when updating the `module.exports` object in your **webpack.config.js** file, to not to make any nesting mistakes.
+- Now delete all the files from the */dist* directory and run:
+```
+npm run build
+```
+- Check your */dist* folder. If it contains a new **index.html** file, it means you were successful. 
 
-### HTML/CSS requirements
+#### HTML template
+- If you plan to write some HTML in your project, it's easiest to do it with a template. Create a **/src/index.html** in which you can write your markup. Add some basic page markup, like:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wbpack Exercise</title>
+</head>
+<body>
+    <h1>Hello webpack!</h1>
+</body>
+</html>
 
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+```
+- Then modify **webpack.config.js** to point HtmlWebpackPlugin towards your template file:
+```javascript
+plugins: [
+  new HtmlWebpackPlugin({
+-   title: 'Output Management',
++   template: './src/index.html'
+  }),
+],
+```
+- You could remove the title property as well (as shown above), because you have set the page title in your **/src/index.html**.
+- Run `npm run build` to update the **/dist/index.html**.
+- View the **/dist/index.html** file in a code editor and notice how webpack inserted a `<script>` tag with correct path and minified the HTML for better performance.
 
-### Project requirements
+#### Add CSS
+The next step in building your webpack boilerplate is to add some style to it.
+Follow the steps in [loading CSS](https://webpack.js.org/guides/asset-management/#loading-css) guide.
 
-_**IMPORTANT NOTE:** For each Microverse project, you need to create a separate pull request. [Read how to work with multiple pull requests in your one repository in the most efficient way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md)._
+- In your **style.css** file add a generic rule, like:
+```css
+body {
+    background-color: bisque;
+}
+```
+- Next, execute `npm run build` and check if the HTML body style has changed.
 
-- The section you need to build for this milestone is: 
-    - the contact form in the footer:
-    <p align="center">
-     <img src="./images/m3_contact_form/contact_form.png" alt="Form" />
-    </p>
-We included a screenshot of Template 1 for reference, but you should follow the template that you chose.
-- Make sure that:
-    - Name field accepts up to 30 chars.
-    - Email field accepts only emails.
-    - Message field accepts up to 500 chars.
-    - All fields have placeholder text.
-    - All fields have the correct type.
-    - A user cannot submit the form if one or more of the fields is empty.
-- Collect data by using the [Formspree service](https://formspree.io/html).
-- In order to lay out the elements on the page you should use Flexbox.
-- You don't need to implement any functionality that requires JavaScript.
-- You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-- Implement the button interactions (enable, hover, etc.).
+#### Setup local dev server
+Finally, it's time to improve your developer experience. When working on the project you will not want to run the build command from the terminal every time you make a change in the code. 
+Therefore go ahead and install a webpack dev server, which will *watch* your source files, generate compiled distribution files and even refresh the browser every time you save changes in the source code.
 
+- Follow the [using webpack-dev-server](https://webpack.js.org/guides/development/#using-webpack-dev-server) guide and set it up on your local machine.
+Again, be cautious with updating the `module.exports` object in your **webpack.config.js**.
+- Once these steps are complete, you should see your application working at: `http://localhost:8080/`. Every change you make in **js** or **css** files now should be reflected in a browser a few seconds later.
 
-### Need a big picture?
+### Submit your exercise
+[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+Now go to your Student Dashboard and submit your exercise. 
+Please note that as it is an exercise you do not need a code review so, you can merge the pull request immediately after you are done with the task.
+Paste the link to your GitHub repository.
 
-Remind me about [the big picture of this project](./sneak_peek.md).
-
-## Work and submission mode
-
-- You should implement the above requirements in **all repositories** in your pair-programming group. _That means that each group member needs to open a new pull request in their repo._
-- We will check the commit history to make sure that everybody has contributed code on each project.
-- You should ask for a review and submit this activity **individually.**
-
-## Code review
-
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
-
- 
+## Additional materials
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+- We strongly advise you to check the [official webpack documentation](https://webpack.js.org/concepts/) for better understanding of the tools you're using here.
+- To check all available options for HtmlWebpackPlugin plugin configuraion, visit the [webpack plugin GitHub repo](https://github.com/jantimon/html-webpack-plugin).
 
 ------
 

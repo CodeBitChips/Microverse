@@ -1,29 +1,31 @@
-# Time booked for implementing suggested project changes
+# ES6 Modules
 
-Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
+## Learning objectives
 
-Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
+- Use ES6 modules to write modular JavaScript.
+- Understand the benefits of modular architecture in JavaScript applications.
 
-**Therefore, you can see time booked for the project changes in the Student Dashboard.**
+### Estimated time: 1h
 
-### How should you use the time booked for making project changes?
+## Description 
+The Module Pattern has been around for a long time and is one of the most popular patterns among JavaScript developers. There are many variants of it. Some of the most commonly used variants of the Module Pattern are AMD (Asynchronous Module Definition), UMD (Universal Module Definition), and CommonJS (popular in the Node.js ecosystem).
 
-We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
+ES6 finally brings native support for modules in JavaScript. The implementation of it is excellent both in terms of syntax and functionality. Modules suddenly became simple to write and use thanks to the powerful keywords `export` and `import` that are now available to developers.
 
-We recommend that you follow these steps:
-- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
-- After that you can begin to complete the other activities planned for that day.
-- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
-- Finally, you can complete the remainder of the time booked for the project changes at the end of the day if a third code review was necessary.
+### Why are modules important?
+To make applications easier to develop and maintain, developers try to compose them of a set of highly decoupled, distinct pieces of functionality stored in different modules.
+Modularity allows applications to scale and to be worked on by a large number of developers.
+Since the introduction of ES6 modules, the task has never been easier.
 
-### What should you do if you need more time for project changes than the amount booked for that?
+### Learn more about ES6 modules 
+- [Learn about JavaScript modules](https://javascript.info/modules-intro).
+- [Learn about ES6 `export` and `import` directives](https://javascript.info/import-export).
 
-The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
-We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
-
-### What should you do about time booked for the project changes in the Student Dashboard?
-
-There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
+### Additional materials
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+If you want to explore the syntax and functionality of ES6 modules in more detail, read these articles as well: 
+- [about `export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export).
+- [about `import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import).
 
 ------
 

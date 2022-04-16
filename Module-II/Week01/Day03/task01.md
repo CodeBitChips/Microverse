@@ -1,63 +1,47 @@
-# Core study skills at Microverse
+# Working in diverse cross-cultural teams part 2
 
-## Learning objectives
+### Learning objectives
 
-- See Microverse as a professional environment and understand the necessity to develop the skills needed to be an international professional.
-- Learn the study skills needed to succeed at Microverse including following the schedule and limiting distractions.
+- Recognize different forms of bias that exist in the world and how they might come into play in Microverse or other professional environments.
+- Recognize different types of diversity and worldviews that exist in the world and recognize own worldview in relation to others.
 
 ### Estimated time: 0.5h
 
-## Habits for Success
+## Description
 
-This lesson will take a closer look at which habits will help you be successful at Microverse and later in your remote job.
+Cultures around the world communicate in different ways that are more and less direct. This is called high context and low-context communication and this lesson talks more about it.
 
-### Why is this important?
+### Why are high- and low-context cultures important?
 
-Adapting to a demanding, full-time program can be challenging. The remote nature of the program can bring an extra set of challenges. Proper preparation can help you succeed.
+There are two very distinct patterns to how people communicate around the world. People who communicate in high-context cultures expect their listeners to "read between the lines" and don't say things as directly. Those from low-context cultures will tend to say things more directly from the beginning. Some Micronauts might use high-context communications whereas others might use low-context communication. The differences can cause miscommunication. When collaborating with someone, identifying and talking about your context culture can help avoid misunderstanding and foster collaboration.
 
-### Setting yourself up for success through three areas:
+### High- and low-context cultures
 
-By knowing when your deadlines are, proactively communicating, and adjusting to your new schedule, you will be ready to get far ahead in the Microverse program. Please read through the information together with your morning session team. You should not mute yourself while doing this exercise.
+The following materials explain the two different types of cultures and show some examples. While listening to the video pay attention if you can identify whether you are high- or low- context culture.
 
-- [Three habits for success](three-habits-for-success.md)
+Guiding questions:
 
-### The importance of limiting distractions:
+- Are you from a high-context or low-context culture?
+- How do you think these differences can result in misunderstanding or conflict?
 
-Read the following blog in silence for 5 minutes.
+Please watch the video and read the article below individually while staying in the call with your team:
 
-- [Remote Work Distraction: How to Deal With It?](https://krisp.ai/blog/remote-work-distraction-tips/)
+- [Leadership speaker Erin Meyer: Low context vs. high context societies](https://www.youtube.com/watch?v=9oYfhTC9lIQ)
+- [Example of difference between high context and low context communication](examples-of-differences-between-high-context-and-low-context-communication.md)
 
-## Exercise
+### Discussion
 
-### Instructions
+Please discuss the following questions with your teammembers:
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+- Are you from a high-context or low-context culture?
+- How do you think these differences can result into misunderstanding or conflict?
+- What else comes to mind for you?
 
-**Spend 10 minutes working on this exercise.**
+## Additional materials
 
-1. Complete section 1 solo
-2. Complete section 2 together
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-**Exercise template to copy:** [Core Study Skills Part 2](https://docs.google.com/document/d/1nz2_RMNFkZH58qJcGMlFG_kjn49J-Wsb2FrFwD_653w/edit)
-
-### Group Discussion
-
-Take turns describing the top two distractions that you will have and come up together as a team with two solutions for each distraction.
-
-### Submit your exercise
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
-
-Now go to your Student Dashboard and submit your exercise.
-
-### Extra Microverse Resources:
-
-The following links are FAQs with more information if you find that helpful:
-
-- [How do I report an absence](https://microverse.zendesk.com/hc/en-us/articles/360043576994-How-do-I-report-an-absence-)
-- [The Daily Schedule at Microverse](https://microverse.zendesk.com/hc/en-us/articles/360046155554)
-
-
+- Refresh on this article from an earlier activity: [Cross-cultural communication styles: High and low context](examples-of-differences-between-high-context-and-low-context-communication.md)
 
 ------
 

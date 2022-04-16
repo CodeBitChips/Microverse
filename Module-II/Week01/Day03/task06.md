@@ -1,85 +1,69 @@
-# Portfolio: setup and mobile version skeleton
+# Daily standup
 
 ## Learning objectives
-- Understand how to parse a Figma design to create a UI.
-- Flexbox to place elements in the page.
-- Build a personal portfolio site.
-- Use images and backgrounds to enhance the look of the website.
 
-### Estimated time: 2.5h
+- Describe the value of the daily standup team.
+- Show you know how to use a daily update and weekly retrospective forms to drive successful meeting activities.
+- Create a good SMART goal for a daily goal.
 
-## Description
+### **Estimated time**: 0.25h
 
-For the first milestone in the process of creating your portfolio website, you will:
+## What is a daily standup?
 
-- set up a new repository and prepare it for development using best practices (e.g. linters).
-- build the first 2 sections of the mobile website using the template you chose in the previous step.
+This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day from Monday through Thursday.
 
+### Why are daily standup important?
 
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+Daily standups are a common tool in software developer teams and technology companies. They serve a lot of purposes: they help with productivity, bring clarity to your goals, help you communicate with your team, and help you overcome your blockers. We use them internally as a company at Microverse too. We want you to do daily standups every day from Monday to Thursday at Microverse, to help you become more productive here—and to help you be ready for using them in your software development job after Microverse!
 
-### General requirements
+## Exercise
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config):
-    - Linter should be set up correctly for this repository.
-    - Linter result should be green.
-    - There should be no custom changes to linter config.
-- Make sure that you used correct [GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md):
-    - README file should be descriptive.
-    - Commit messages should be meaningful.
-    - Pull Request should have a descriptive title explaining what changes are inside.
-    - Pull Request should have a short summary describing introduced changes in more detail.
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md):
-    - Branch name should describe a feature or action (e.g. 'created_sidebar' or 'added_comments_section').
-    - Pull Request is made from 'feature branch' into the `main` branch.
+### Instructions
 
+Before you start filling in your first daily standup, there are few key areas you have to think about and critically assess. To do so, remember that your daily standup should serve 2 purposes: 
 
-### HTML/CSS requirements
+- help you move forward in the week with your tasks
+- update teammates on what you are doing
 
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+A daily standup is not just a list of actions. Instead, it's a moment of reflection on how your work is going. Use the following questions as a guide:
 
-### Project requirements
-- For this project, you should use the [HTML&CSS linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
-- The 2 sections you need to build for this project are:
+1. **What went well today?**
 
-    - the toolbar (or header):
-    <p align="center">
-     <img src="./images/m1_setup/toolbar-mobile.png" alt="Toolbar" />
-    </p>
+    Did you achieve a goal faster than expected? Great! Write it down. Did you get positive feedback from someone? Go ahead and note it! It's important to keep track of things that go well to celebrate small wins and to give ourselves an overview of what our strengths are so we can do more of that in the future. Celebrating what went well is also known to raise motivation!
 
-    - the headline section (right after the header):
-    <p align="center">
-      <img src="./images/m1_setup/headline-mobile.png" alt="Headline" />
-    </p>
+2. **What blocked you from achieving your goals?**
 
-  
-We included a screenshot of Template 1 for reference, but you should follow the template that you chose.
+    Experiencing blockers or challenges is expected. We cannot expect to operate at 100% productivity and reach all of our goals every week.
+
+    Many different things may keep you from reaching your goal. It's important, to be honest with yourself. Identifying the right issue will help you adjust your goals to improve your performance the following week. Are you not reaching your goals due to productivity issues you can control like lack of motivation or time management? Or are you having difficulties with your partners due to conflict or having different working styles?
+
+    By self-assessing and identifying the blockers, you can actively do something to overcome them, either by reaching out to your standup team, Student Success, or trying out a specific strategy related to your blocker.
+
+3. **What are your three goals for tomorrow?**
+
+    Set three goals using the SMART method. A smart goal should be **specific**, **measurable**, **achievable**, **relevant**, ****and **timely**. ****
+
+    You can refresh your knowledge of SMART goals in the following article:
+
+    - [How do I set great goals?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/how-do-i-set-great-goals.md)
     
-- In order to lay out the elements on the page you should use Flexbox in all 2 sections.
-- You don't need to implement any functionality that requires JavaScript, like opening the menu or creating dropdowns.
-- You must stick to the design as much as possible (e.g. font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-- Implement the button interactions (enable, hover, etc.).
+4. **What will you do tomorrow to ensure you reach your goals?**
 
-### Need a big picture?
+    If something does not work, change it. We often make the mistake of setting the same goals, hoping next week we will finally reach them. But that does not work. Taking the time to reflect on your blockers and turning those into action plans is the way to long-term success. Perhaps you are setting your goals too high or too low? Are you applying the SMART method correctly? Are you diagnosing the right blocker? Do you keep using the same strategy, but it isn't working? What will you change in your behavior that will result in reaching your goals next week? If you aren't sure what to do, it's a great idea to bring it up with your team and get their help thinking what you could change. 
 
-Remind me about [the big picture of this project](./sneak_peek.md).
+### Submit your exercise
 
+Now go to your Student Dashboard and fill in your daily standup.
 
-## Work and submission mode
+### Additional materials
 
-- You should submit this activity **individually.**
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-## Code review
+- [Daily standups: What to expect](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/daily-standups:-what-to-expect.md)
+- [The value and potential of daily standups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/value-and-potential-of-daily-standups.md)
+- [How to set SMART goals | Goal setting for students](https://www.youtube.com/watch?v=i0QfCZjASX8)
+- [The small-win principle for maximum performance | Robin Sharma](https://www.youtube.com/watch?v=OtfW8RDmOUo)
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
-
- 
 
 ------
 

@@ -1,41 +1,106 @@
-# Animations and transitions
-
+# Get better at seeking help
 ## Learning objectives
 
-- Understand the usefulness of transitions and animations.
+- Recognize what a reasonable amount of time is to try solving something on your own before
+seeking help.
+- Apply varied techniques for getting unstuck as needed while learning new coding skills.
+- Demonstrate the ability to seek out information on your own before asking for an answer.
 
-### Estimated time: 1h
+### Estimated time: 1.5h
 
 ## Description
 
-We have the possibility of adding transitions and animations to our website to make it more appealing for visitors and provide them a better user experience.
+In this lesson, you will learn how to get better at seeking help by knowing when to seek help, how to seek information on your own, and ways of getting unstuck.
 
-With *transitions* we can make elements on the page change smoothly while the user is interacting with them. For example, when the user moves the mouse over an element we can change the font color gradually or make an image grow slightly.
+### Why is getting better at seeking help important?
 
-*Animations* do not require an user interaction to start moving. With animations you can make changes to an element's properties and repeat those changes continuously.
+Asking for help doesn't come naturally to many people. Only a few people enjoy asking for help. As research in neuroscience and psychology shows, the social threats involved—*the uncertainty, risk of rejection, the potential for diminished status, and giving away of control*—activate the same brain regions that physical pain does. *And in the workplace, where we’re typically keen to demonstrate as much expertise, competence, and confidence as possible, it can feel particularly uncomfortable to make such requests.*
 
-### Why are animations and transitions important?
+However, it’s virtually impossible to advance in modern organizations without assistance from others. Not asking for help also results in unnecessary stress and impacts your decision-making and productivity, increases mistakes, and damages the overall outcome of whatever project you’re working on. Your performance, development, and career progression depend more than ever on your seeking out the advice, referrals, and resources you need.  In fact, estimates suggest that as much as 75% to 90% of the help coworkers give one another is in response to direct appeals.
 
-A nice use of animations and transitions can make your webapp feel:
-- easier to understand.
-- smoother, more natural, and of higher quality.
-- more engaging.
+**Learn more about why asking for help is important:**
 
-### Learn more
+- [Asking for help | Steve Jobs](https://www.youtube.com/watch?v=zkTf0LmDqKI)
 
-- Read [the "Using CSS transitions" tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) from MDN (stop reading when you get to the "JavaScript examples" section).
-- Read [the "Using CSS animations" tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) from MDN.
+### What is a reasonable amount of time to try before seeking help?
 
-## Challenge yourself
+**Guiding questions:**
 
-*Use these optional questions to check what you learned during this lesson.*
-- [20 questions quiz about animations and transitions](https://docs.google.com/forms/d/e/1FAIpQLSc_iUJkWwEycgkaizLpzkNDoQr9COVX3VMgy37AL7JOwLW9nw/viewform).
+- What do you think is the right time to seek help?
+- Have you had any experiences where you felt that you sought help much before it was needed?
+
+Identifying when to ask for help is a key skill to master not only at Microverse but later in your workplace as well. In a busy workplace, you can't ask for help all the time. And it may not look good if you have to do so over and over again.  
+
+**Learn more about when to seek help:**
+
+[When is the right time to seek help?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/when-is-the-right-time-to-seek-help.md)
+
+### How to seek information on your own
+
+**Guiding questions:**
+
+- What are the ways in which you seek information about the possible solutions?
+
+In the last section, you would have identified the problem and are seeking to find information related to the problem on your own.    
+
+**Learn more about the ways to find information on your own:**
+
+[Ways to seek information on your own](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/ways-to-seek-information-on-your-own.md)
+
+### Ways of getting unstuck
+
+**Guiding questions:**
+
+- What do you generally do to get unstuck after you have tried solving it on your own?
+
+The last 2 sections would have helped you in moving towards getting unstuck. In case you are still stuck, a few ways are there to get you unstuck.       
+
+**Learn more about how get unstuck after trying to solve the problem on your own:**
+
+[Ways to get unstuck](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/ways-to-get-unstuck.md)
+
+### Building a long term community of support
+
+**Guiding questions:**
+
+- Do you have people whom you can fall back on for personal or professional help?
+
+The ways shared in the sections above are helpful in getting our short-term problems resolved.       
+
+However, to ensure better support in our learning and growth it is vital to have strong relationships. Relationship building is a proven part of the science of flourishing and well-being in all aspects of life and work.  
+
+**Learn more about ways to build a long term community of support:**
+
+[Ways to build a community of support](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/ways-to-build-a-community-of-support.md)
+
+## Exercise
+
+### Instructions
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+
+**Spend 30 minutes working on this exercise.**
+
+1. Open your copy of the exercise template below.
+2. Write responses to all the questions in the space provided.
+
+**Exercise template to copy:** [Get better at seeking help](https://docs.google.com/document/d/1xow6eBjB0LPqhKyTK8FFpJR4JxO4YGSD0y08dRHmBJo/edit)
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Read this tutorial on [how to use the CSS transform function](https://learn.shayhowe.com/advanced-html-css/css-transforms/).
-- Play around with these [simple CSS spinners](https://tobiasahlin.com/spinkit/) to get some inspiration of what you can do with animations.
+
+- [How to alleviate your stress and ask for help](https://www.forbes.com/sites/kathycaprino/2018/12/03/how-to-alleviate-your-stress-and-ask-for-help-without-appearing-weak/?sh=62adc57111ac)
+- [How to overcome your reluctance to ask for help](https://greatergood.berkeley.edu/article/item/how_to_overcome_your_reluctance_to_ask_for_help_at_work)
+- [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+- [Use Google to solve your programming questions](https://codinginflow.com/google-programming-questions)
+
 
 ------
 

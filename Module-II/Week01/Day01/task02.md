@@ -1,43 +1,48 @@
-# Tools: your Student Dashboard
+# Working in Diverse-Cross Cultural Teams Part 1
 
-## Learning objectives
+### Learning objectives
 
-- Identify where on the Student Dashboard you find your daily schedule and how to attend meetings.
-- Identify where on the Student Dashboard you can reach out for help.
-- Identify how to use the Student Dashboard to track your progress.
+- Recognize different forms of bias that exist in the world and how they might come into play in Microverse or other professional environments.
+- Recognize different types of diversity and worldviews that exist in the world and recognize your own worldview in relation to others.
 
-### Estimated time: 0.75h
+### Estimated time: 0.5h
 
 ## Description
 
-In this lesson, you will learn how to connect your Zoom account to the dashboard and you will receive an introduction on how to use your Dashboard. 
+This lesson talks about Hofstede's six dimensions of culture to help you understand how people from different parts of the world might be different from you.
 
-### Why is the Student Dashboard important?
+### Why are Hofstede's six dimensions of culture important?
 
-The Student Dashboard is at the center of your life here at Microverse. You will use it for everything from tracking your progress to meeting your partners. You will also receive it to find answers to your technical and non-technical questions. Before you can use it properly, you will have to set it up correctly and will need to know where you can find everything. 
+Hofstede's six dimensions of culture will help you understand why people around the world might make different decisions, communicate differently, or prioritize different actions than you. It can be used as a tool to better understand others as well as a tool to communicate and collaborate with others. Hofstede's dimensions will also allow you to understand your own culture better. When you experience challenges or conflict when collaborating with someone, discussing Hofstede's dimensions can help you understand where the challenges come from and what to pay attention to to resolve them.
 
-### Setting up your Dashboard
+### Hofstede's six dimensions of culture
 
-Below you will find the information on how to set up the Student Dashboard. 
+Take a look at the following links to learn more about Hofstede's six dimensions of culture. If you've already done the Learning about diversity and multicultural teams lesson, you'll recognize these from there. 
 
-**Please take the following action**
+First, you will watch a video together. Before watching think about the following questions:
 
-- [Connect your Zoom account your Dashboard](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/connect-your-zoom-account-to-your-dashboard.md)
+- Do you recognize yourself in any of the dimensions?
+- Have you experienced any conflict or difference with a partner that can be explained by the different dimensions?
+- How might these dimensions help you to collaborate cross-culturally?
 
-### A tour of the Student Dashboard
+**Learn more about Hofstede's dimensions:**
 
-Below you will find information with videos on how to use your Student Dashboard. 
+- [Hofstede's cultural dimensions - video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
+- [Hofstede's cultural dimensions summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
+- [Hofstede's cultural dimension](https://www.mindtools.com/pages/article/newLDR_66.htm)
 
-- [A tour of your Student Dashboard](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/a-tour-of-your-student-dashboard.md)
+### Discussion
 
-## Challenge yourself
+- Did you recognize yourself or your country in any of the dimensions?
+- What differences exist between you in the team?
 
-*Use these questions to check what you learned during this lesson.* 
+## Additional materials
 
-- From which page do I join my daily meetings?
-- Where can I submit feedback?
-- Where can I see my attendance record?
-- Where can you see what activities you need to submit in a day?
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [Hofstede insights: the six dimensions](https://hi.hofstede-insights.com/national-culture)
+- [Compare countries - Hofstede insights](https://www.hofstede-insights.com/product/compare-countries/)
+- [The application of Hofstede’s cultural dimensions at Botho University: A model for workplace harmony in a multi-cultural business environment](https://core.ac.uk/download/pdf/234671602.pdf)
 
 
 ------

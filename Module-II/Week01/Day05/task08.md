@@ -1,10 +1,13 @@
-# Quiz: ES6 and webpack
+# Quiz: Dynamic websites with JavaScript
 
 ## Learning objectives
-- Use ES6 syntax.
-- Use ES6 modules.
-- Use callbacks and promises.
-- Use webpack.
+
+- Understand different ways to create objects in JavaScript.
+- Use developer tools to print information to the console.
+- Use JavaScript classes.
+- Understand stacks.
+- Understand queues.
+- Solve coding challenge based on stacks.
 
 ### Estimated time: 0.5h
 
@@ -14,7 +17,8 @@ Please complete this quiz to assess your understanding of the topics covered in 
 
 You need to get a minimum of 70% of correct answers to pass the quiz. After you submit the quiz, you can check your score in the Student Dashboard. If you fail, you can repeat the quiz from your Student Dashboard. You have 3 attempts to pass the quiz, otherwise this activity will be considered not successful, and you will need to repeat the block.
 
-To proceed with the quiz use the "Checkpoint Quiz" action in your Students Dashboard. 
+To proceed with the quiz use the "Checkpoint Quiz" action in your Students Dashboard.
+
 
 ------
 

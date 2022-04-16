@@ -1,49 +1,54 @@
-# Sneak peek: your portfolio
+# Is this a job offer?
 
 ## Learning objectives
-- Understand how to parse a Figma design to create a UI.
+
+- Recognize the difference between starting an interview process and an actual job offer.
 
 ### Estimated time: 0.5h
 
-## Description
+## Introduction
 
-*Your portfolio* is one of the most powerful tools in your software developer toolbox; it’s the easiest way of showing what you’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what you can bring to their teams.
+The purpose of this lesson is to define and describe a job offer, as well as the difference between a recruiter outreach and a job offer. 
 
-As you work your way through Microverse curriculum materials you will complete several small projects that will combine to create a website for your portfolio. A portfolio website is a key job searching tool for a web developer, and we want you to start working on it from the beginning of the Microverse program. In this project, you will **precisely replicate one of the portfolio templates** we are providing for you. However, later on during your Microverse journey you will include your own projects in the portfolio in order to use it for job searching.
+### Why is it important to understand what a job offer is?
 
-### What makes a good portfolio?
+Understanding the difference between starting the hiring process and receiving a job offer can help you better understand what is happening when a recruiter approaches you, and make sure you know when you really have a job offer in hand. 
 
-[![Good portfolio](https://img.youtube.com/vi/3-N6O7DVrbc/0.jpg)](https://www.youtube.com/watch?v=3-N6O7DVrbc)
+### What is the difference between a recruiter outreach and a job offer?
 
-In essence, if you look at any of the example portfolios we list below, you’ll see that they each contain four shared traits:
-- They are all **simple**: there’s no extraneous information, only basic background information, contact information, and a project showcase. 
-- They are all **visual**: they use screenshots, mockups, live demos, and other visual tools to show the viewer what you’re capable of making. 
-- They are all **thorough**: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about their work, projects, and history. 
-- And they all **look good**: they use 1-3 elegant fonts, focus on 2-3 different colors, use HD images, and use color palettes that look good together.
+You have worked on online profiles, they show your skills in a significant way, and you've started to get some visibility and attract recruiters. It is inspiring to receive a message from a recruiter about an available position. The message you get from a recruiter can be considered a recruiter outreach.
 
-### Portfolio templates & how to use Figma
+**Guiding questions:**
 
-We have provided some solid portfolio templates you can choose from. Choose the one you like the most. The templates are hosted on Figma - a collaborative UI design tool built in the browser. Please watch [this video](https://www.loom.com/embed/167236d17f104fc18298c5c9888354c9) to learn how to navigate the templates on Figma.
+- Have you received a message from a recruiter or potential employer asking about your qualifications or interest in a vacancy?
+- What were your initial thoughts about the outreach mentioned above?
 
-If you still have questions about how to use Figma you can visit and interact with [the Figma community](https://forum.figma.com/).
+**Learn more about what a recruiter outreach is and what it is not:**
 
-Here you will find [the Microverse student portfolio templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
+- [Job offer vs. recruiter outreach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-offer-vs-recruiter-outreach.md)
 
-**You should select one template for your personal portfolio in order to proceed with the next steps.**
+## Exercise
 
-### Projects list
+### Instructions
 
-You will be building your website portfolio during the first module of the program. Here is the list of projects that will guide you. You will find details about each of the projects requirements in the upcoming program activities. In some of the projects you will be working individually, but in others you will be working collaboratively with your coding partner.
-- Project 1: Setup and mobile version skeleton
-- Project 2: Mobile version
-- Project 3: Contact form (pair programming)
-- Project 4: Desktop version
-- Project 5: Application deploy
-- Project 6: Evaluate accessibility (pair programming)
-- Project 7: Mobile menu (pair programming)
-- Project 8: Details modal (pair programming)
-- Project 9: Validate contact form (pair programming)
-- Project 10: Preserve data in the browser (pair programming)
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+In the exercise template below, you will find different statements and summaries of today's lesson. Some are true and some are false. Arrange the questions in the appropriate boxes. 
+
+**Exercise template to copy:** [Job offer vs. recruiter outreach assessment](https://docs.google.com/document/d/1y4m2min_SbElMNvQb2j-6Oaq4Yu4tcUOkS6TBTUKat0/edit?usp=sharing)
+
+### Submit your exercise
+
+[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+Now go to your Student Dashboard and submit your exercise.
+
+## Additional materials
+
+**These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
+
+- [Employment: What is it?](https://www.thebalancecareers.com/what-is-employment-1918114) - This article also further defines and describes what employment is.
+- [Job Offers: What are they?](https://www.thebalancecareers.com/what-is-a-job-offer-1918166#:~:text=A%20job%20offer%20is%20an,details%20of%20your%20employment%20offer.&text=This%20includes%20salary%2C%20benefits%2C%20job,reporting%20manager's%20name%20and%20title) - An article with a more detailed description of a job offer. For optional study, the article also goes further to provide tips on how to counter or negotiate a job offer.
+
 
 ------
 

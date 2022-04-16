@@ -1,48 +1,70 @@
-# Becoming a Remote Professional Part 2
+# Morning session: Cross-cultural communication skills - part 2
 
 ## Learning objectives
 
-- Demonstrate ability to regularly show up to meetings and be on time.
-- Recognize punctuality as a form of respect and key to success in global remote work.
-- Recognize the key elements of a professional working environment (i.e. good Internet connection, no background noise, good seating arrangement, good lighting, etc.).
+- Learn how to use communication and cross-cultural knowledge as tools when conflicts arise in working relationships.
+- Understand how to communicate across cultures, using empathy and curiosity and actively questioning own biases.
+- Understand that respect is the foundation of strong relationship-building with teammates.
 
-### Estimated time: 0.5h
+### **Estimated time**: 0.5hr
 
-## Introduction
+## Dealing with conflict in cross-cultural situations
 
-The purpose of this lesson is to introduce tips to having a professional remote work environment.
+*Read through the following section on your own while staying on the Zoom call with your group.* 
 
-### Why is a remote work environment important?
+*Spend 10 minutes on this section individually*
 
-While working from home has its perks, it can be distracting. Errands, chores, family, housemates, TV, social media, and pets can easily shift your attention. Setting up a professional remote work environment can help to eliminate these distractions and improve your chances of landing and succeeding in a remote job.
+In the previous session, we talked about conflicts that can occur due to misunderstandings in communication styles. Recognizing and understanding differences can help us minimize conflicts; however, some conflicts will still inevitably occur and it's important to think about how to handle them.
 
-### How to show professionalism by having a professional working environment.
+### Why is dealing with conflict in cross-cultural situations important?
 
-There are practical ways to start creating a professional working environment. Firstly, it is important to assess your current environment and any feedback you might have gotten from your colleagues or your standup team at Microverse. Click the link below to learn how to switch up your work environment and improve your professionalism as a remote worker. Read through this individually while staying on the Zoom call with your group.
+Dealing with conflict is not easy. Sometimes people just try to ignore the issue and hope that problems will get resolved on their own. This usually does not work; the problems don't go away and they can often get worse. While it's important to deal with conflict, **how** we deal with it is critical to maintaining effective team relationships and a healthy work environment. 
 
-[Setting up a professional remote work environment](setting-up-a-professional-remote-work-environment.md)
+### Recognizing different communication styles
 
-## Submit your exercise
+Guiding questions:
 
-### Submission instructions
+- What are healthy ways of dealing with conflicts?
+- What strategies can be used to help with difficult conversations?
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+**Learn more about how to handle conflict in the workplace:**
 
-**Group Discussion** From the above lesson, you have learned about setting up a professional remote work environment as a remote work professional's skill. Have a two-minute discussion with your group using the following prompts:
+[How to Handle Conflict in the Workplace](https://blink.ucsd.edu/HR/supervising/conflict/handle.html#2.-Focus-on-behavior-and-events) - This article provides 8 keys steps, with examples, for handling conflict in the workplace.
 
-- What is the one thing we can observe from each other's working environment that can be improved? You will continue this activity and write down your findings in the exercise document below.
+## Exercise
 
-**Individual Exercise** - Do this exercise individually, but stay on the Zoom call with your group. Identify and submit one thing in your work environment that is professional and one thing that needs improvement.
+### Handling Conflict in the Workplace
 
-For this activity, you would need to make observations of your morning study group.
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
-Use this [Google Doc Template](https://docs.google.com/document/d/14pYLYX70tmL05reD58LKtr3QS8vUVV3DPYO6uCY8p3Y/edit?usp=sharing) to complete the exercise.
+**Spend 20 minutes working on this exercise (10 minutes individually and 10 minutes with the group)**
 
-*Use the template document to submit your learnings on setting up a professional work enmvironment as a remote work skill. To use this template, make a copy of this document by selecting “File” then “Make a copy”. In your copy, replace all the italicized text with your information. When you submit this, you should have **removed** all of the italicized instructions. Then Use the “Share” button in the top right corner, and copy the link from “Get Link” after editing to allow commenting. ([See this Loom video for how to do this.](https://www.loom.com/share/603c5e8790304d8c98b2d8703260b479))*
+1. Open the exercise template and make a copy.
+2. Review the strategies in the first table. Mark how often you use different strategies and which you want to use more often.
+
+### Group discussion
+
+*Spend 10 minutes talking about this as a group.* 
+
+Share your responses to the exercise together as a group. Compare your responses. Which strategy does the group believe is used most often by everyone? Which is used least often? In the exercise template, put an X next to the appropriate strategy in the second table in the document. 
+
+**Exercise template to copy:** [Morning session: Cross-cultural communication skills - part 2](https://docs.google.com/document/d/1RG69X1lqBVOFMZdfsuDzSg4dKl02vmVG4bOPrLmqZwg/edit#)
 
 ### Submit your exercise
 
-[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit your exercise.
+
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [How to treat others with respect in the workplace](https://www.indeed.com/career-advice/career-development/how-to-treat-others-with-respect)
+- [How to handle a conflict with a coworker](https://www.bustle.com/articles/103025-8-ways-to-handle-a-conflict-with-a-coworker)
+- [6 strategies to resolve conflict at work](https://www.entrepreneur.com/article/303617)
+- [4 Steps to Take When Handling Conflict With Your Co-Worker](https://www.newerahrsolutions.com/2018/04/30/steps-to-handling-conflict-with-co-worker/)
+
 
 ------
 

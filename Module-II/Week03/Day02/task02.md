@@ -1,29 +1,19 @@
-# Time booked for implementing suggested project changes
+# To test or not to test?
 
-Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
+## Learning objectives
+- Explain why testing code is important.
+- Explain why manual QA is often necessary alongside unit tests.
 
-Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
+### Estimated time: 0.5h
 
-**Therefore, you can see time booked for the project changes in the Student Dashboard.**
+## Description
+It should go without saying that the application's code does not go to production before it's checked by someone else other than the code's author. It is too easy to miss a bug or forget to check an edge case. That's why teams employ testers and QA engineers who check the functionality of every new feature independently from the developers who wrote it. There are various kinds of manual and automated tests, but all have the same goal - to make sure you ship error-free code.
 
-### How should you use the time booked for making project changes?
+### Why is testing important?
+In essence, by testing you save time and money. If your code is well covered with automated tests, you gain confidence in it. You and your team will be able to add new features in the future without the risk of breaking existing functionality. Good tests can also be used as documentation of your application's building blocks.
 
-We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
-
-We recommend that you follow these steps:
-- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
-- After that you can begin to complete the other activities planned for that day.
-- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
-- Finally, you can complete the remainder of the time booked for the project changes at the end of the day if a third code review was necessary.
-
-### What should you do if you need more time for project changes than the amount booked for that?
-
-The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
-We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
-
-### What should you do about time booked for the project changes in the Student Dashboard?
-
-There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
+- Read this [introduction to testing concepts](https://medium.com/weekly-webtips/mastering-testing-world-in-javascript-web-ea0180b469b4) to learn about various tests and their role in the software development process.
+- Learn more about [manual testing](https://www.toolsqa.com/software-testing/manual-testing/) and why sometimes it's necessary to use manual testing alongside automated tests.
 
 ------
 

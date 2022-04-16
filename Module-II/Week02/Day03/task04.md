@@ -1,67 +1,41 @@
-# Portfolio: desktop version
+# Update your social media to project a professional image
 
 ## Learning objectives
-- Understand  how to create UIs adaptable to different screen sizes using media queries.
-- Understand how to parse a Figma design to create a UI.
 
-### Estimated time: 8.5h
+- Show a professional online presence on social media.
+
+### **Estimated time**: 1h
 
 ## Description
 
-For the fourth project in your portfolio website, you will:
+In this exercise, you will update your social media presence to ensure you project a professional image.
 
-- Use media queries to make sure that your website displays correctly on desktop screens.
+### Why is updating your social media presence important?
+
+In the lesson *[What does your social media presence say about you?](what-does-your-social-media-presence-say-about-you-and-what-might-you-want-to-change.md)* we learned the following topics:
+
+- The importance of having a professional social media presence
+- The importance of protecting your privacy on social media
+
+Social media, if not maintained correctly, can project a negative image of you to recruiters and in turn, negatively impact your interview and job opportunities. We want to avoid this as much as possible, so we will help you update your social media to ensure anything public projects a professional image.
+
+## Exercise
+
+### Instructions
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+1. Open your copy of the template below and complete all sections.
+
+**Exercise template to copy:** [Creating a professional social media presence](https://docs.google.com/document/d/1jti0kzTV1e5PV4gbB7F_EaEymBuPRATmfx9VBiC2t9Q/edit)
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+
+Now go to your Student Dashboard and submit your exercise.
 
 
-**You have time for this project scheduled in to 2 days. Please ask for a code review when you are ready.**
-
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
-
-### General requirements
-
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct ([Github flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
-
-### HTML/CSS requirements
-
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-
-### Project requirements
-
-
-_**IMPORTANT NOTE:** For each Microverse project, you need to create a separate pull request. [Read how to work with multiple pull requests in your one repository in the most efficient way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md)._
-
-- You need to make sure that your dekstop version looks like the one in the Figma design template that you chose. We include a screenshot of Template 1 below for reference, but you should use the template that you chose.
-- **IMPORTANT NOTE** some Figma design templates include two input fields (for first name and last name) in the desktop version and one input field (for full name) in the mobile version (look for those cases in *Contact me* or *Get in touch* sections). **Please ignore this part of the design template and use only one input for the full name for all versions.**
-    <p align="center">
-     <img src="./images/m4_desktop/desktop.png" alt="Desktop" />
-    </p>
-
-- Use media queries in your CSS file to make your desktop version look like the template you selected (let's assume that the desktop width should be in 992px - 1100px range).
-- In order to lay out the elements on the page you should use Grid and Flexbox.
-- You don't need to implement any functionality that requires JavaScript.
-- You must replicate the design as much as possible (e.g., font, colors, images, tests, margins) using [the info from the Figma templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-
-### Need a big picture?
-
-Remind me about [the big picture of this project](./sneak_peek.md).
-
-## Work and submission mode
-
-- You should submit this activity **individually.**
-
-## Code review
-
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
-
- 
 
 ------
 

@@ -1,32 +1,32 @@
-# Quiz: Positioning HTML elements with floats, flexbox and CSS grid
-
+# Stacks and queues
 
 ## Learning objectives
-- Use industry-standard tools (floats) to place elements in the page.
-- Use industry-standard tools (flexbox) to place elements in the page.
-- Use industry-standard tools (CSS grid) to place elements in the page.
-- Use semantic HTML tags.
-- Apply best practices in HTML code.
-- Use CSS box model.
-- Use CSS selectors correctly.
-- Identify where you can find the Code of Conduct.
-- Identify where on the Student Dashboard you can reach out for help.
-- Understand that Microverse's program has a core, direct goal of getting you to employment.
-- Identify the core supports the Career Services team offers.
-- Identify where you can get career-related support.
-- Show you know how to request an absence.
 
+- Understand stacks.
+- Understand queues.
 
-### Estimated time: 0.5h
+### Estimated time: 1h
 
-## Instructions
+## Stacks
 
-Please complete this quiz to assess your understanding of the topics covered in this block, including both technical and professional skills.
+A stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle.
 
-You need to get a minimum of 70% of correct answers to pass the quiz. After you submit the quiz, you can check your score in the Student Dashboard. If you fail, you can repeat the quiz from your Student Dashboard. You have 3 attempts to pass the quiz, otherwise this activity will be considered not successful, and you will need to repeat the block.
+### Why are stacks important?
 
-To proceed with the quiz use the "Checkpoint Quiz" action in your Students Dashboard. 
+As is the case with all data structures, knowing what a stack is will help you in your daily life as a programmer and is crucial during job interviews.
 
-------
+### Learn about stacks
 
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+- Watch this video about [stacks](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ) from Coursera.
+
+## Queues
+
+A queue is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle.
+
+### Why are queues important?
+
+As in the case with all data structures, knowing what a queue is will help you in your daily life as a programmer and can be crucial during job interviews.
+
+### Learn about queues
+
+- Watch this video about [queues](https://www.coursera.org/lecture/data-structures/queues-EShpq) from Coursera.

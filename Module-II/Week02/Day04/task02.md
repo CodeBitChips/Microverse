@@ -1,67 +1,31 @@
-# Portfolio: desktop version
+# Time booked for implementing suggested project changes
 
-## Learning objectives
-- Understand  how to create UIs adaptable to different screen sizes using media queries.
-- Understand how to parse a Figma design to create a UI.
+Each technical project at Microverse will get a code review. If you need to refresh yourself regarding the code review process, you can check the article [How to ask for a code review at Microverse](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md).
 
-### Estimated time: 8.5h
+Your code reviewer will likely ask you to make changes to your project, so you will definitely need some time to implement the suggested changes after each code review.
 
-## Description
+**Therefore, you can see time booked for the project changes in the Student Dashboard.**
 
-For the fourth project in your portfolio website, you will:
+### How should you use the time booked for making project changes?
 
-- Use media queries to make sure that your website displays correctly on desktop screens.
+We give you flexibility in that matter. Use the time that best fits in your schedule - but make sure that you and your partner(s) agree on what time to use.
 
+We recommend that you follow these steps:
+- You can use part of the time after the morning meeting to implement changes requested in the initial code review and request a second code review.
+- After that you can begin to complete the other activities planned for that day.
+- After you receive a second code review you can use the other part of the time booked to implement project changes. This could happen after the lunch break if you have already received your second code review, or later in the day if you have not yet received your code review by the end of the lunch break.
+- If a third code review was necessary, you can complete the remainder of the time booked for the project changes at the end of the day.
+- Occasionally, changes might be requested in your third review. To implement them, you can use an extra code review. 
+- Always plan your work carefully and mind the deadlines: they apply even though you use extra code reviews! 
 
-**You have time for this project scheduled in to 2 days. Please ask for a code review when you are ready.**
+### What should you do if you need more time for project changes than the amount booked for that?
 
-*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project.
+We expect the average student to be able to generally complete their Microverse required work during program time, but potentially you can spend 5-15 hours a week doing extracurricular work. However, if you need significantly more time on a specific project than estimated definitely let us know about it by reaching out to us through your Student Dashboard.
 
-### General requirements
+### What should you do about time booked for the project changes in the Student Dashboard?
 
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct ([Github flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
-
-### HTML/CSS requirements
-
-- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-
-### Project requirements
-
-
-_**IMPORTANT NOTE:** For each Microverse project, you need to create a separate pull request. [Read how to work with multiple pull requests in your one repository in the most efficient way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md)._
-
-- You need to make sure that your dekstop version looks like the one in the Figma design template that you chose. We include a screenshot of Template 1 below for reference, but you should use the template that you chose.
-- **IMPORTANT NOTE** some Figma design templates include two input fields (for first name and last name) in the desktop version and one input field (for full name) in the mobile version (look for those cases in *Contact me* or *Get in touch* sections). **Please ignore this part of the design template and use only one input for the full name for all versions.**
-    <p align="center">
-     <img src="./images/m4_desktop/desktop.png" alt="Desktop" />
-    </p>
-
-- Use media queries in your CSS file to make your desktop version look like the template you selected (let's assume that the desktop width should be in 992px - 1100px range).
-- In order to lay out the elements on the page you should use Grid and Flexbox.
-- You don't need to implement any functionality that requires JavaScript.
-- You must replicate the design as much as possible (e.g., font, colors, images, tests, margins) using [the info from the Figma templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-
-### Need a big picture?
-
-Remind me about [the big picture of this project](./sneak_peek.md).
-
-## Work and submission mode
-
-- You should submit this activity **individually.**
-
-## Code review
-
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
-## Submit your project
-
-After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
-
- 
+There is no need to submit this type of activity. You must make project changes and then request code reviews for the project until you receive final approval for your project; after you have final approval you may stop working on the project. This may take the amount of time listed in the Student Dashboard, but because that amount of time is just an estimate, your project changes may take more or less time than the time estimate provided in the Student Dashboard.
 
 ------
 
